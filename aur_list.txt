@@ -1,0 +1,5 @@
+lemonbar-xft-git
+ntpdate
+redshift-minimal
+tzupdate
+z-dir-jump-git

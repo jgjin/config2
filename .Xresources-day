@@ -1,0 +1,7 @@
+! Move over to compton
+! #include ".Xresources.d/cursor-options"
+#include ".Xresources.d/emacs-options"
+#include ".Xresources.d/rofi-options-day"
+#include ".Xresources.d/spacemacs-colors"
+#include ".Xresources.d/urxvt-options-day"
+#include ".Xresources.d/xscreensaver-options-day"

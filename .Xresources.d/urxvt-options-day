@@ -1,0 +1,37 @@
+URxvt*font: xft:Source Code Pro:size=24
+URxvt.letterSpace: 0
+URxvt.scrollBar: false
+URxvt.background: #fff4ee
+! URxvt.foreground: #787697
+! URxvt*metaSendsEscape: true
+! URxvt*transparent: true
+! URxvt*shading: 30
+! URxvt*fading: 100
+
+! Can't get clipboard to work with URxvt
+! URxvt.perl-ext-common: default,selection-to-clipboard,pasta
+! URxvt.keysym.Control-V: perl:pasta:paste
+! URxvt.keysym.M-c: perl:clipboard:copy
+! URxvt.keysym.M-v: perl:clipboard:paste
+
+! URxvt.color0:       #1f2022
+! URxvt.color1:       #f2241f
+! URxvt.color2:       #67b11d
+! URxvt.color3:       #b1951d
+! URxvt.color4:       #4f97d7
+! URxvt.color5:       #a31db1
+! URxvt.color6:       #2d9574
+! URxvt.color7:       #a3a3a3
+! URxvt.color8:       #585858
+! URxvt.color9:       #f2241f
+! URxvt.color10:      #67b11d
+! URxvt.color11:      #b1951d
+! URxvt.color12:      #4f97d7
+! URxvt.color13:      #a31db1
+! URxvt.color14:      #2d9574
+! URxvt.color15:      #f8f8f8
+
+! Toggle day mode colors
+URxvt.keysym.M-d: command:\033]11;#fff4ee\007
+! Toggle night mode colors
+URxvt.keysym.M-n: command:\033]11;#202020\007

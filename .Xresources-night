@@ -1,0 +1,7 @@
+! Move over to compton
+! #include ".Xresources.d/cursor-options"
+#include ".Xresources.d/emacs-options"
+#include ".Xresources.d/rofi-options-night"
+#include ".Xresources.d/spacemacs-colors"
+#include ".Xresources.d/urxvt-options-night"
+#include ".Xresources.d/xscreensaver-options-night"

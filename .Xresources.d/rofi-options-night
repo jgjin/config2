@@ -1,0 +1,8 @@
+rofi.font: Source Code Pro 24
+!                  'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: #292b2e,  #bc6ec5,  #292b2e,  #1c1c1c,  #268bd2
+rofi.color-active: #202020,  #bc6ec5,  #202020,  #1c1c1c,  #268bd2
+! rofi.color-urgent: #fdf6e3,  #dc322f,  #eee8d5,  #dc322f,  #fdf6e3
+
+!                  'background', 'border', 'separator'
+rofi.color-window: #292b2e,      #bc6ec5,  #bc6ec5

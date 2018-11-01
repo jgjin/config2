@@ -1,0 +1,2 @@
+bindkey "^[a" backward-word
+bindkey "^[d" forward-word
