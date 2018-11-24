@@ -35,8 +35,8 @@ volume() {
 
 # Print CPU load
 cpu() {
-    # Load is divided by 4 because laptop has 4 cores
-    ps -eo pcpu | awk 'BEGIN {sum=0.0f} {sum+=$1/4} END {printf "%03d", sum}'
+    # Load is divided by 8 because laptop has 8 cores
+    ps -eo pcpu | awk 'BEGIN {sum=0.0f} {sum+=$1/8} END {printf "%03d", sum}'
 }
 
 # Print network connection state

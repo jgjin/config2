@@ -32,8 +32,6 @@ gawk
 gcc
 gcc-libs
 gettext
-ghc
-gifsicle
 gimp
 git
 glibc
@@ -61,6 +59,7 @@ mediainfo
 mpv
 nano
 netctl
+noto-fonts-cjk
 ntpdate
 pacman
 patch
@@ -80,8 +79,11 @@ python-jinja
 python-lxml
 python-mutagen
 python-pafy
+python-pandas
+python-pdfrw
 python-pip
 python-pymediainfo
+python-statsmodels
 python-wtforms
 python-xmltodict
 recordmydesktop
@@ -95,6 +97,7 @@ s-nail
 sed
 shadow
 socat
+stress
 sudo
 sxhkd
 sysfsutils

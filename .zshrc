@@ -48,6 +48,7 @@ export EDITOR='vim'
 export GDK_SCALE=2
 # export LD_LIBRARY_PATH="/usr/local/lib/"
 export LS_COLORS
+export PATH="/home/banana/.cargo/bin:$PATH"
 export PATH="/home/banana/.cask/bin:$PATH"
 export PATH="$PATH:$HOME/bin"
 # export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig"
@@ -195,7 +196,7 @@ find_img() {
 find_img_set() {
     FIND_IMG_SET_NUM=0
     for word in "$@"; do
-	find -wholename "*$word*" -type f > /tmp/find_img_$FIND_IMG_SET_NUM.txt
+	find -type f -wholename "*$word*" ! -wholename "*old*" > /tmp/find_img_$FIND_IMG_SET_NUM.txt
 	FIND_IMG_SET_NUM=$(($FIND_IMG_SET_NUM + 1))
     done
     cat /tmp/find_img_*.txt > /tmp/img.txt 

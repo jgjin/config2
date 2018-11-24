@@ -31,7 +31,7 @@ URxvt.background: #202020
 ! URxvt.color14:      #2d9574
 ! URxvt.color15:      #f8f8f8
 
-! Toggle day mode colors
-URxvt.keysym.M-d: command:\033]11;#fff4ee\007
-! Toggle night mode colors
-URxvt.keysym.M-n: command:\033]11;#202020\007
+! ! Toggle day mode colors
+! URxvt.keysym.M-d: command:\033]11;#fff4ee\007
+! ! Toggle night mode colors
+! URxvt.keysym.M-n: command:\033]11;#202020\007

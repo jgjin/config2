@@ -14,9 +14,9 @@ xscreensaver &
 # Lock on suspend
 xss-lock -- /usr/bin/xscreensaver-command -lock &
 
-# Start day theme
-xrdb $HOME/.Xresources-day
-feh --bg-fill $HOME/pics/wallpaper-day.jpg
+# Start night theme
+xrdb $HOME/.Xresources-night
+feh --bg-fill $HOME/pics/wallpaper-night.jpg
 
 # Start emacs
 emacs --daemon
