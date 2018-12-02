@@ -27,6 +27,7 @@ file
 filesystem
 findutils
 firefox
+flashplugin
 flex
 gawk
 gcc
@@ -60,13 +61,17 @@ mpv
 nano
 netctl
 noto-fonts-cjk
+nss-mdns
 ntpdate
+openconnect
+openssh
 pacman
 patch
 pavucontrol
 pciutils
 perl
 pkgconf
+pkgfile
 poppler-glib
 powertop
 procps-ng

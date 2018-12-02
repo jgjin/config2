@@ -35,15 +35,12 @@ super + m
 super + {equal,minus}
         amixer -q sset Master 2%{+,-}
 
-# pause or quit mpv
+# toggle, quit, prev, next mpv and Volumio
 # https://mpv.io/manual/master/#json-ipc
 # https://mpv.io/manual/master/#properties
-super + shift + {space, Escape}
-        echo '\{ "command": [{"cycle"\, "pause","quit"}] \}' | socat - /tmp/mpvsocket
-
-# switch mpv track
-super + {shift + q,shift + e}
-        echo '\{ "command": ["playlist-{prev,next}", "weak"] \}' | socat - /tmp/mpvsocket
+# https://volumio.github.io/docs/API/REST_API.html
+super + shift + {space, Escape, q, e}
+        ~/bin/music_cmd.sh {toggle,stop,prev,next}
 
 # seek mpv track
 super + shift + {a,s,w,d}

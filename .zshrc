@@ -301,7 +301,7 @@ speed_up_albums() {
 	    if [ -d "$3/$BASE_NAME" ]; then
 		echo $3/$BASE_NAME "already exists, skipping"
 	    else
-		if [ "$BASE_NAME" != "$3" ]; then
+		if [ "$BASE_NAME" != "$3" -a "$BASE_NAME" != "tracklists" -a "$BASE_NAME" != "metadata" ]; then
 		    speed_up_album $INODE $2 $3/$BASE_NAME
 		fi
 	    fi
@@ -342,10 +342,10 @@ update_config() {
 # Update music in Raspberry Pi
 update_music() {
     if [[ "$#" -eq 0 ]]; then
-	sudo rsync -rltuvP --delete ~/music /mnt/sdcard
+	sudo rsync -rltuvP --delete ~/music/sped-up /mnt/sdcard/dyn/data/INTERNAL
 	# rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@192.168.211.1:/mnt/INTERNAL
     else
-	sudo rsync -rltuvP --delete ~/music $@
+	sudo rsync -rltuvP --delete ~/music/sped-up $@
 	# rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@$1:/mnt/INTERNAL
     fi
 }
