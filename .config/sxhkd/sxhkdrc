@@ -39,12 +39,12 @@ super + {equal,minus}
 # https://mpv.io/manual/master/#json-ipc
 # https://mpv.io/manual/master/#properties
 # https://volumio.github.io/docs/API/REST_API.html
-super + shift + {space, Escape, q, e}
-        ~/bin/music_cmd.sh {toggle,stop,prev,next}
+super + shift + {space, Escape, q, e, w, s}
+        ~/bin/music_cmd.sh {toggle,stop,prev,next,up 10, down 10}
 
 # seek mpv track
-super + shift + {a,s,w,d}
-        echo '\{ "command": ["seek", "{-5,-60,+60,+5}"] \}' | socat - /tmp/mpvsocket
+super + shift + {a,d}
+        echo '\{ "command": ["seek", "{-5,+5}"] \}' | socat - /tmp/mpvsocket
 
 # Careless whisper
 super + ctrl + alt + s

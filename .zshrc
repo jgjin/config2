@@ -48,9 +48,10 @@ export EDITOR='vim'
 export GDK_SCALE=2
 # export LD_LIBRARY_PATH="/usr/local/lib/"
 export LS_COLORS
-export PATH="/home/banana/.cargo/bin:$PATH"
-export PATH="/home/banana/.cask/bin:$PATH"
+export PATH="$PATH:$HOME/.cargo/bin"
+export PATH="$PATH:$HOME/.cask/bin"
 export PATH="$PATH:$HOME/bin"
+export PATH="$PATH:$HOME/go/bin"
 # export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig"
 export RUST_SRC_PATH="$(rustc --print sysroot)/lib/rustlib/src/rust/src"
 export VISUAL='vim'
@@ -58,6 +59,12 @@ export _Z_DATA="$HOME/.dir_history"
 
 # Support history-based cd
 . /usr/share/z/z.sh
+
+# cd then ls to directory
+cd_ls() {
+    chdir $@
+    custom_ls
+}
 
 # Custom functions
 connect() {
@@ -127,7 +134,7 @@ custom_mv() {
     # if [ "$PWD" = '/home/banana/music' ]; then
     # 	echo "Please use movemusic"
     # else
-    /usr/bin/mv $@
+    /usr/bin/mv -i $@
     # fi
 }
 
@@ -175,6 +182,16 @@ custom_rm() {
 	/usr/bin/rm -i $@
     fi
     # fi
+}
+
+# Report bspwm desktop layouts for all desktops
+desktop_layouts() {
+    for id in $(bspc query -D); do
+	DESKTOP_JSON=`bspc query -d $id -T`
+	DESKTOP_NAME=`echo $DESKTOP_JSON | jshon -e name`
+        DESKTOP_LAYOUT=`echo $DESKTOP_JSON | jshon -e layout`
+	echo $DESKTOP_NAME layout: $DESKTOP_LAYOUT
+    done
 }
 
 # Execute du sorted by size
@@ -236,7 +253,7 @@ move_music() {
 # Move then change to that directory
 mv_cd() {
     custom_mv $@
-    cd "${@: -1}"
+    chdir "${@: -1}"
 }
 
 # Search pacman and print pkgfile suggestion if fails
@@ -342,11 +359,11 @@ update_config() {
 # Update music in Raspberry Pi
 update_music() {
     if [[ "$#" -eq 0 ]]; then
-	sudo rsync -rltuvP --delete ~/music/sped-up /mnt/sdcard/dyn/data/INTERNAL
-	# rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@192.168.211.1:/mnt/INTERNAL
+	# sudo rsync -rltuvP --delete ~/music/sped-up /mnt/sdcard/dyn/data/INTERNAL
+	rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@192.168.1.146:/mnt/INTERNAL
     else
-	sudo rsync -rltuvP --delete ~/music/sped-up $@
-	# rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@$1:/mnt/INTERNAL
+	# sudo rsync -rltuvP --delete ~/music/sped-up $@
+	rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@$1:/mnt/INTERNAL
     fi
 }
 
@@ -378,3 +395,9 @@ source $HOME/.config/zsh/keybindings
 
 # Aliases
 source $HOME/.aliases.sh
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/home/banana/dls/google-cloud-sdk/path.zsh.inc' ]; then . '/home/banana/dls/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/home/banana/dls/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/banana/dls/google-cloud-sdk/completion.zsh.inc'; fi

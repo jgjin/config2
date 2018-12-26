@@ -8,6 +8,7 @@ binutils
 bison
 bspwm
 bzip2
+chromium-widevine
 clipmenu
 cmatrix
 compton
@@ -36,12 +37,14 @@ gettext
 gimp
 git
 glibc
+go
 grep
 groff
 gzip
 inetutils
 iproute2
 iputils
+ipython
 jfsutils
 jshon
 lemonbar-xft-git
@@ -82,6 +85,7 @@ pulseaudio-jack
 python-flask
 python-jinja
 python-lxml
+python-matplotlib
 python-mutagen
 python-pafy
 python-pandas
@@ -89,6 +93,7 @@ python-pdfrw
 python-pip
 python-pymediainfo
 python-statsmodels
+python-tensorflow-opt
 python-wtforms
 python-xmltodict
 recordmydesktop
