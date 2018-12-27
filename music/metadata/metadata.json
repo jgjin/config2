@@ -1,786 +1,836 @@
 {
-    "found_automatically": {
-        "adrianne-lenker_abysskiss": {
-            "playlist_id": "OLAK5uy_k8vK8wr3RwbWt48UD131tAV4DQgLtkC_c"
-        },
-        "against-all-logic_2012-2017": {
-            "playlist_id": "PL9rByFUQL1ASXGUMp8z-HNtn8wfhJG9r2"
-        },
-        "alex-cameron_forced-witness": {
-            "playlist_id": "PLLrMva2PXNL37NBdbL0IdIdoMPwu7CI4N"
-        },
-        "ali-farka-tour\u00e9_savane": {
-            "playlist_id": "PLetv3SCC-r3bbN5b7dM-u9TnA3er1Pa2Y"
-        },
-        "alvvays_antisocialites": {
-            "playlist_id": "PLJRigFWwgSN2-Mowutrzv4W3TRZ7IMhBT"
-        },
-        "amanda-shires_to-the-sunset": {
-            "playlist_id": "OLAK5uy_mGMg-AOrJKRhEDNC_Loxush1udsreO958"
-        },
-        "anderson-paak_oxnard": {
-            "playlist_id": "PL3-sRm8xAzY8wD_MzRw_ejN_gc2dhTYCS"
-        },
-        "andrew-w-k_you-re-not-alone": {
-            "playlist_id": "PLCHQlCLk3pxU2p-1_6AFI_jiSTC1iRBD-"
-        },
-        "angel-olsen_my-woman": {
-            "playlist_id": "PLZqsyBiYZFQ1Vh7YbSL6X8J2KPLjMWcpx"
-        },
-        "angelique-kidjo_remain-in-light": {
-            "playlist_id": "OLAK5uy_mbIYOh0HJq4wi9oYI-SjACbkSJHC_u7Ng"
-        },
-        "animal-collective_merriweather-post-pavilion": {
-            "playlist_id": "PLZqsyBiYZFQ1lSPbxpuTK288FXNy-2tQq"
-        },
-        "anna-calvi_hunter": {
-            "playlist_id": "OLAK5uy_k9ciU6AP2UtrYZ2r5dxvaq34GStCTZKuU"
-        },
-        "anna-von-hausswolff_dead-magic": {
-            "playlist_id": "PLMh7Rwn2z7rHV8T571lbENSrJWPy9CLk5"
-        },
-        "arca_mutant": {
-            "playlist_id": "OLAK5uy_nSkMetjEX8PhHXNrPWZktgW9Zgp9IwMeo"
-        },
-        "arcade-fire_funeral": {
-            "playlist_id": "PLC12F685485FFD45A"
-        },
-        "ariana-grande_sweetener": {
-            "playlist_id": "https://drive.google.com/drive/u/0/folders/1nKnwGqti4SnwEihHgvVHH4OeZvR-hKuQ"
-        },
-        "ariel-pink_dedicated-to-bobby-jameson": {
-            "playlist_id": "PLrpOUNXcaeIeLFiLGeNWdoQTMw3gBtj-3"
-        },
-        "armand-hammer_paraffin": {
-            "playlist_id": "OLAK5uy_nOpyNiiJyLuejDTsOuUTmdvC_rb1jTe70"
-        },
-        "beach-house_7": {
-            "playlist_id": "PL8jPTjX3P7qg1gEQSRQ8oUHctiZOGAn-L"
-        },
-        "beach-house_teen-dream": {
-            "playlist_id": "PLF-bpxVt63LqR0Ev5_y8xGx_jJvjh4a2n"
-        },
-        "belle-sebastian_the-boy-with-the-arab-strap": {
-            "playlist_id": "OLAK5uy_mDOCaCbhnTj7VOfl1QcGy4dhwcCr6Li1U"
-        },
-        "big-k-r-i-t_4eva-is-a-mighty-long-time": {
-            "playlist_id": "PL0uRqTtXXqOV2RT_Vf5eNpcUY1J1OPOWD"
-        },
-        "big-thief_capacity": {
-            "playlist_id": "PLb94Zw9KCu-dZOTOlQa-MLxdo6zhqeLdl"
-        },
-        "bj\u00f6rk_homogenic": {
-            "playlist_id": "PL_PD_RD4vvcjjh0w_ohn1Fz4YVLmBLl9i"
-        },
-        "bj\u00f6rk_vespertine": {
-            "playlist_id": "PL1BCBDDA394C775C9"
-        },
-        "black-thought_streams-of-thought-vol-1": {
-            "playlist_id": "PLeYkNbBsViDrW8-3XRmU6zNibpMYSSxw7"
-        },
-        "black-thought_streams-of-thought-vol-2": {
-            "playlist_id": "OLAK5uy_msjmlbSBaPGmnC9_8GTpXtRICa4EQ6SKE"
-        },
-        "blake-mills_look": {
-            "playlist_id": "OLAK5uy_kmHtECx2sIgLgQNA6Yzemix9DSuSOuXyQ"
-        },
-        "blood-orange_freetown-sound": {
-            "playlist_id": "PLm1szpOehiwMT4MMjYLj0DP16UutHM-Dn"
-        },
-        "blood-orange_negro-swan": {
-            "playlist_id": "OLAK5uy_lkrhpzrUeq62EzDZ3TLlLwqtpUZecstFg"
-        },
-        "bon-iver_22-a-million": {
-            "playlist_id": "PLLDTXYBgvaFbkFPfpcoZd2vIbbdJAXZbT"
-        },
-        "bon-iver_bon-iver": {
-            "playlist_id": "PL3A4A38A32151F5B9"
-        },
-        "brand-new_science-fiction": {
-            "playlist_id": "PLJLch4po_PiYy-B2wpaczl08OC7z8jLAt"
-        },
-        "brockhampton_saturation-ii": {
-            "playlist_id": "PLMcVT1uRVF45XfAdqTf0XuOezo1lxAlcE"
-        },
-        "brockhampton_saturation-iii": {
-            "playlist_id": "PL8dQn-hifgZqzxc8Epv1radVkyMlOx-eD"
-        },
-        "broken-social-scene_hug-of-thunder": {
-            "playlist_id": "PLPvQODocvUhSgKth6YGEA-RGuL6ZBI3mK"
-        },
-        "car-seat-headrest_teens-of-denial": {
-            "playlist_id": "https://mega.nz/#!1exhQDSa!o5qZTk9HBukZ7fj_lRKZ4QzdQWeBSNVI6OzV0J0Nxp8"
-        },
-        "car-seat-headrest_twin-fantasy": {
-            "playlist_id": "PLUkpIIjyrx_snVKZyBGd8HKPEp2Hhvluu"
-        },
-        "cardi-b_invasion-of-privacy": {
-            "playlist_id": "PLATQ8iWXs4GwvAdM7AkI7gx8QqFAHo68L"
-        },
-        "carly-rae-jepsen_emotion": {
-            "playlist_id": "PLQX7wLlX1V9GNA9kSZSJqwW-5-3WETWJ6"
-        },
-        "chance-the-rapper_coloring-book": {
-            "playlist_id": "OLAK5uy_lonMuZ6Ovr6ZzoOOfbhu9QOAv6bv0hRVA"
-        },
-        "charli-xcx_pop-2": {
-            "playlist_id": "PLq9q26-M-R4C7kwwgv_yg17eOtijnMB0q"
-        },
-        "charlotte-gainsbourg_rest": {
-            "playlist_id": "PLbcerJq8u6Ichqcro1y0AgnBHhkuKGVkb"
-        },
-        "christine-and-the-queens_chris": {
-            "playlist_id": "https://musicriders.blogspot.com/2018/09/christine-and-queens-chris-2018.html"
-        },
-        "circuit-des-yeux_reaching-for-indigo": {
-            "playlist_id": "http://folkindie.blogspot.com/2018/11/circuit-des-yeux.html"
-        },
-        "circulatory-system_circulatory-system": {
-            "playlist_id": "OLAK5uy_nRg_2C92faewbM3dZl0fABQSRiYBfAp7A"
-        },
-        "circulatory-system_signal-morning": {
-            "playlist_id": "OLAK5uy_ldvdVyt6cIaglh0vY5-g2ceUHgen0qUvo"
-        },
-        "clarence-clarity_no-now": {
-            "playlist_id": "PLGgD8QHAH8BRNY4IqYerubIY_Ax7-yRcV"
-        },
-        "clarence-clarity_think-peace": {
-            "playlist_id": "PL7ZMiei9u5G9nn4N3ox5q6fS3o30kE_9a"
-        },
-        "cowboy-junkies_all-that-reckoning": {
-            "playlist_id": "OLAK5uy_nf0JKDumExxCWZ6FNiKHl7GxrSJDdyOog"
-        },
-        "cupcakke_ephorize": {
-            "playlist_id": "PLcarFWgDO1UDYw5k83XIruDcBkLSYr6q9"
-        },
-        "current-93_the-light-is-leaving-us-all": {
-            "playlist_id": "PL4LQv-UIpzAm3YHIQPDws4FROJ_k_SeXS"
-        },
-        "d-angelo_black-messiah": {
-            "playlist_id": "PL4LyJBWB_4o6VkpKgyD5UHNBBFGE5phfc"
-        },
-        "danny-brown_atrocity-exhibition": {
-            "playlist_id": "PL-ws09Ilvqu_twtJzwQ2uQUVRfrCMguWb"
-        },
-        "daughters_you-won-t-get-what-you-want": {
-            "playlist_id": "PLCCofuEvZzWUIrGKAOqcnU73DHXyrSqt5"
-        },
-        "david-bowie_the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars": {
-            "playlist_id": "PL9dLjK8hFNprgODb29hA6HSkEzFZhwsdN"
-        },
-        "daym\u00e9-arocena_cubafon\u00eda": {
-            "playlist_id": "OLAK5uy_k2JM2Fnre_L43mmSSu3PITL3W3Xja8SHY"
-        },
-        "dead-can-dance_dionysus": {
-            "playlist_id": "OLAK5uy_mE8VOQMMxlXL7H6TzEizp3toOtlD1p-p0"
-        },
-        "deafheaven_ordinary-corrupt-human-love": {
-            "playlist_id": "PLYwfYGziz-_33Dh8q9rHd4ig-trsJUuw8"
-        },
-        "deafheaven_sunbather": {
-            "playlist_id": "PLZqsyBiYZFQ0da3amOC_4Kr5flqbIVLEH"
-        },
-        "death-from-above-1979_outrage-is-now": {
-            "playlist_id": "PLQiXqpQwSrlXcKTjpvTNfCaW9fMH8d-Ej"
-        },
-        "death-grips_the-money-store": {
-            "playlist_id": "PL2D59D51BDE448389"
-        },
-        "death-grips_year-of-the-snitch": {
-            "playlist_id": "OLAK5uy_nlI-9MzJWDiLzM3jtthE2m8Z7OK96aqDg"
-        },
-        "denzel-curry_ta13oo": {
-            "playlist_id": "OLAK5uy_kkZn-6jHfLglP4wlmzRNLG-qxKpgfwJ9g"
-        },
-        "dorian-concept_the-nature-of-imitation": {
-            "playlist_id": "OLAK5uy_lEqqdqrYVXFaR_FR4GQPiVpq8hYOsrs5Q"
-        },
-        "dungen_ta-det-lugnt": {
-            "playlist_id": "OLAK5uy_mWsOPhrFkQ4xGM3uAS3hVedpU8B5etQC8"
-        },
-        "earl-sweatshirt_some-rap-songs": {
-            "playlist_id": "PLkuwENv3kgsKgxOgqWxaS5P96Mq9XKstC"
-        },
-        "empress-of_me": {
-            "playlist_id": "PLRMRoPrdVD1IgTKykJlLy6wGr_CVPEvR5"
-        },
-        "father-john-misty_i-love-you-honeybear": {
-            "playlist_id": "OLAK5uy_lljvD54d3r3IzHENlxCgLGdNh9jhTEkD8"
-        },
-        "fever-ray_fever-ray": {
-            "playlist_id": "PLhAmBC_dwmTYZ99-m2YOw4-_ZqeHS3bwe"
-        },
-        "fka-twigs_m3ll155x": {
-            "playlist_id": "PLysIdEafcgigzFOB1e3WqfSMTpExWviBZ"
-        },
-        "fleet-foxes_helplessness-blues": {
-            "playlist_id": "PLqJtvK-CApQq77FqnaOequJlQ1DxpucYu"
-        },
-        "four-tet_there-is-love-in-you": {
-            "playlist_id": "http://www.mediafire.com/file/72irc8hclmflvez/Fr+Tt+-+Thr+is+lv+in+y+%282010%29.rar"
-        },
-        "foxing_nearer-my-god": {
-            "playlist_id": "PLawMNLVMLgQWvs_tov0IWlOOIG8yEmqWi"
-        },
-        "frank-ocean_channel-orange-explicit-version": {
-            "playlist_id": "PLX68ZEYlh74vDJY4XR775HHifYT7IeXsj"
-        },
-        "fucked-up_dose-your-dreams": {
-            "playlist_id": "PL-uYFLSpPzNDHIaMHLy5OVqGeyfBzxutd"
-        },
-        "future_ds2": {
-            "playlist_id": "PL08QO4-WZCIfdiiadD89VRrVFydH-TSzT"
-        },
-        "gaika_basic-volume": {
-            "playlist_id": "OLAK5uy_lcyq7qDS7DFLsJQyS9oVnpGbC6aS5uzmo"
-        },
-        "ghost_prequelle": {
-            "playlist_id": "PLBkHOnPbMitt9OXCVIMtBMazjRxsCe6lp"
-        },
-        "girlpool_powerplant": {
-            "playlist_id": "https://music314.com/20925/girlpool-powerplant-2017-mp3"
-        },
-        "glass-animals_how-to-be-a-human-being": {
-            "playlist_id": "PLQReQsnItdzYQzuK2yD7ipXIT9ce9WAWA"
-        },
-        "grimes_art-angels": {
-            "playlist_id": "PLZqsyBiYZFQ2U2IoBiKJVreYb77td7pOT"
-        },
-        "gruff-rhys_babelsberg": {
-            "playlist_id": "https://www14.zippyshare.com/v/1NDJMdeZ/file.html"
-        },
-        "guerilla-toss_gt-ultra": {
-            "playlist_id": "PLfxn3BO5XadHelTmMovY3AUkr3z7iS2Wh"
-        },
-        "guerilla-toss_twisted-crystal": {
-            "playlist_id": "OLAK5uy_k6Yks3su1hFjkl7A4PdzeDCadwhmhkK-s"
-        },
-        "hamilton-leithauser-rostam_i-had-a-dream-that-you-were-mine": {
-            "playlist_id": "PLWmJtVAyQQRBlV1hMM30MdTmKDQCC7gAe"
-        },
-        "hermit-and-the-recluse_orpheus-vs-the-sirens": {
-            "playlist_id": "OLAK5uy_m4DdkEfcbOnuyX5-xaV3SZubUW125-mzg"
-        },
-        "hmltd_hate-music-last-time-delete-ep": {
-            "playlist_id": "OLAK5uy_mVM4vZZEPkWgAYP05MxUXhMkwgNj3vhcs"
-        },
-        "hop-along_bark-your-head-off-dog": {
-            "playlist_id": "PLb94Zw9KCu-dVMAN05NpBahT4eQr0WKOj"
-        },
-        "iceage_new-brigade": {
-            "playlist_id": "PLV8Ny7uy7Kl3r7tj5kM229e5jZik9Tt_I"
-        },
-        "idles_joy-as-an-act-of-resistance": {
-            "fixed_tracks": [
-                "01 - IDLES - COLOSSUS.mp3",
-                "04 - IDLES - DANNY NEDELKO.mp3",
-                "07 - IDLES - SAMARITANS.mp3"
-            ],
-            "playlist_id": "PL1h1aQTAqESvkXWD8Sjt9zaeVflDbwPd5"
-        },
-        "iglooghost_ne\u014d-wax-bloom": {
-            "playlist_id": "OLAK5uy_mA5zGLQcpXpuCjHwYx8wthdz1GOJOKv5c"
-        },
-        "imperial-triumphant_vile-luxury": {
-            "playlist_id": "OLAK5uy_lVjYaXVfaVHDEWPuVzjgAXZIFEQQF32E8"
-        },
-        "interpol_turn-on-the-bright-lights": {
-            "playlist_id": "https://www.dropbox.com/sh/x3d29aykpdkkk8h/AAAZbSbawnzQhiBey8TggTmFa?dl=1"
-        },
-        "jack-white_boarding-house-reach": {
-            "playlist_id": "PLzWmNYF6L9EHDni4gpY6sR9ZsfryYCnrg"
-        },
-        "jake-shears_jake-shears": {
-            "playlist_id": "OLAK5uy_mo1oMSTfYnIOJJfZDHlHcFJVR_nHvRpwc"
-        },
-        "james-blake_the-colour-in-anything": {
-            "playlist_id": "PL5tJG0I1m7g5VrmWEP54t9qblLMw4PR-L"
-        },
-        "janelle-mon\u00e1e_dirty-computer": {
-            "playlist_id": "PLql5iS_v4447gHNRzSujBTL5a4dTez15s"
-        },
-        "janelle-mon\u00e1e_the-archandroid": {
-            "playlist_id": "PL6B9209162C4A40EC"
-        },
-        "japanese-breakfast_psychopomp": {
-            "playlist_id": "OLAK5uy_nYm7aT7gfhwUpT4PGFiL6H5GkY4XR95Tc"
-        },
-        "japanese-breakfast_soft-sounds-from-another-planet": {
-            "playlist_id": "PLOkKqTdiv7GawlJKnI_cB2V1W6wAc93E4"
-        },
-        "jay-som_everybody-works": {
-            "playlist_id": "PLBUI50CY-Z8uwsV5scDx2JTV4Y9r2_Rde"
-        },
-        "jean-grae_everything-s-fine": {
-            "playlist_id": "OLAK5uy_nKwqa2DtMGgbehqV7QOTbw91c96Zt6pDM"
-        },
-        "jeff-rosenstock_post": {
-            "playlist_id": "PLPSGTeQAOKdlZTbVf-YcjAX0ZaXq3rfh6"
-        },
-        "jeff-tweedy_warm": {
-            "playlist_id": "OLAK5uy_lRVzNvEXaQqKVHExyyi8u1fWeVT_iaVDg"
-        },
-        "jid_dicaprio-2": {
-            "playlist_id": "OLAK5uy_njUIFbvYTX3A7zz5a3CQry8ShvBUuR0R0"
-        },
-        "jmsn_velvet": {
-            "playlist_id": "PLmZeMV8zPuNJ8nfZtOqMWIOEkzfd6s-DZ"
-        },
-        "jon-hopkins_singularity": {
-            "playlist_id": "PL840CtJwfhhkD7y7zYSxbsNgaNKAkpToB"
-        },
-        "jorja-smith_lost-found": {
-            "playlist_id": "PLO2Bha79D2faBf4qLJoNht1546aUicY_l"
-        },
-        "joy-division_unknown-pleasures": {
-            "playlist_id": "PL226780F9FEE5BE26"
-        },
-        "jpegmafia_veteran": {
-            "playlist_id": "https://music314.com/4874/jpegmafia-veteran-2018-mp3"
-        },
-        "julia-holter_aviary": {
-            "playlist_id": "OLAK5uy_nhD4ipyN1iLg3P5jw8gwwP-wrlLsuP_bI"
-        },
-        "julia-holter_have-you-in-my-wilderness": {
-            "playlist_id": "PLPaztBWnatciqj1nHn8hFQ0DqvrF9fbDp"
-        },
-        "julie-byrne_not-even-happiness": {
-            "playlist_id": "OLAK5uy_maHrmDwG-3PoCl9AZAtlC8V6ZSr6Yw0hc"
-        },
-        "julien-baker_boygenius": {
-            "playlist_id": "https://www2.streethiphop.org/full-ep-julien-baker-phoebe-bridgers-lucy-dacus-boygenius-320-kbps-itunes-plus"
-        },
-        "julien-baker_turn-out-the-lights": {
-            "playlist_id": "http://s6.faz-dl.top/user2/farvardin/mp3/Julien%20Baker%20-%20Turn%20Out%20the%20Lights(320)"
-        },
-        "kadhja-bonet_childqueen": {
-            "playlist_id": "PLNdp4WJIUkLvaLQ9SBlmdQNQRIzv1RXMC"
-        },
-        "kai-whiston_kai-whiston-bitch": {
-            "playlist_id": "OLAK5uy_n_Yzv9hk2R4sHYb8uf3aTPgUJiTFpg2AM"
-        },
-        "kali-uchis_isolation": {
-            "playlist_id": "PLzmZzpskmgp__g5xg4QtOPrxXgq6trd_1"
-        },
-        "kamasi-washington_the-epic": {
-            "playlist_id": "PLT_aBs9pjfFY_EKyN9ETe8mCVAe5hpkb1"
-        },
-        "kanye-west_yeezus": {
-            "playlist_id": "PLY6gDeHQ2ViWvHWTgnFcLn-1lNSAMpp3t"
-        },
-        "kathryn-joseph_from-when-i-wake-the-want-is": {
-            "playlist_id": "PLveYdzLP3XxXbvahHL82CzGy5M-tUpWkV"
-        },
-        "kelela_take-me-apart": {
-            "playlist_id": "https://www69.zippyshare.com/v/qK2OQd6p/file.html"
-        },
-        "kendrick-lamar_good-kid-m-a-a-d-city": {
-            "playlist_id": "PLZyngM228ohTZ-LOX4Pv8KQcMnr3j-jaQ"
-        },
-        "kendrick-lamar_to-pimp-a-butterfly": {
-            "playlist_id": "http://www.mediafire.com/file/1v33lsxrxc3t11p/KL-TPAB.7z"
-        },
-        "kero-kero-bonito_time-n-place": {
-            "playlist_id": "PLkoYlLJnTbuBUXqHD9lyvFRbbhuBNwGKW"
-        },
-        "kids-see-ghosts_kids-see-ghosts": {
-            "playlist_id": "PLgVCnlWJ-T6MtWdxF8R3XJ9TsQ6F2hm04"
-        },
-        "laura-marling_once-i-was-an-eagle": {
-            "playlist_id": "OLAK5uy_nPjz0GGCcaErrQNxFa3-qQRl5PdVhUycc"
-        },
-        "laura-marling_semper-femina": {
-            "playlist_id": "OLAK5uy_n7gR7lsS3tMmHhH6V571ZPtmo3B0l6Vhg"
-        },
-        "laurel-halo_raw-silk-uncut-wood": {
-            "playlist_id": "PLZqsyBiYZFQ1sE9BXLIvYqSzaKkqBVRik"
-        },
-        "lcd-soundsystem_american-dream": {
-            "playlist_id": "PLh_TeswTk7TSNLSJRs4psQpaaCCsLaYZr"
-        },
-        "lcd-soundsystem_sound-of-silver": {
-            "playlist_id": "PLxk9F7-dvpqqms8EE9kcYf9ODmK2LMNhh"
-        },
-        "lcd-soundsystem_this-is-happening": {
-            "playlist_id": "PLEC1D67F542EB88A0"
-        },
-        "leon-vynehall_nothing-is-still": {
-            "playlist_id": "OLAK5uy_l3ZL9ckfSWbjDx1znAV1a8AxNQAqNRfjk"
-        },
-        "leonard-cohen_you-want-it-darker": {
-            "playlist_id": "PL4SnPCOcKRxZzfa0Mn8y32mr2AR6hOqMx"
-        },
-        "let-s-eat-grandma_i-m-all-ears": {
-            "playlist_id": "PL_WVCXL90JhfWanlMmZZgU1Oj5nvN7fUO"
-        },
-        "lorde_melodrama": {
-            "playlist_id": "PLvm6B0LWgqu9pWrYmmC-6ETs7yDcfHyl9"
-        },
-        "loretta-lynn_van-lear-rose": {
-            "playlist_id": "PLkEx8_pFoyQQ9UhoAQyMsMxMTnarg03Wn"
-        },
-        "louis-cole_time": {
-            "playlist_id": "PLQaADDdbXHx5OXsHIYURWW7lvm5-FdWeg"
-        },
-        "low_double-negative": {
-            "playlist_id": "https://rlsbb.prox4you.fun/low-double-negative-itunes-plus-aac-m4a"
-        },
-        "lucy-dacus_historian": {
-            "playlist_id": "https://music314.com/5478/lucy-dacus-historian-2018-mp3"
-        },
-        "lump_lump": {
-            "playlist_id": "OLAK5uy_lvgXMS7F9cOmJwzTfz1DeeOVTkL9QoOIE"
-        },
-        "mac-miller_swimming": {
-            "playlist_id": "OLAK5uy_nDheeuXYg9hksmCezWxswPTivVoqyNCQc"
-        },
-        "madeon_adventure": {
-            "playlist_id": "PLDE8ygJAGShf9Mz6Cxp8z5dYAA0jzDjGe"
-        },
-        "madvillain_madvillainy": {
-            "playlist_id": "PL9dk_xtWpAkKs1-EKcvq-nKwdaaS-3czd"
-        },
-        "marissa-nadler_for-my-crimes": {
-            "playlist_id": "PL9bSJg1CVviL0wTWpNNG8ejOK-V-6C7Df"
-        },
-        "marissa-nadler_july": {
-            "playlist_id": "PLzIud-bz-SGYeLshECdsbyaajqjAp1_Bn"
-        },
-        "mark-lanegan_with-animals": {
-            "playlist_id": "PLr1eH5xbkBofIeOWmY57Jk2NPEQ1sig8y"
-        },
-        "melody-s-echo-chamber_bon-voyage": {
-            "playlist_id": "PLQgE9Vahqeq3KbNLVQjYrsQLqHTrPSY9s"
-        },
-        "metallica_master-of-puppets-box-set": {
-            "playlist_id": "PLdWtNvjCCo2UAPnTYLzsuAycSu-S0bEP_"
-        },
-        "mgmt_little-dark-age": {
-            "playlist_id": "PLNpYr8fir1tmUY0LvN6xlwjz6W7yBJVm_"
-        },
-        "miguel_war-leisure": {
-            "playlist_id": "PLk9H0l8yuKpNRJsq1ARRQQu1cG9Z63OEi"
-        },
-        "miguel_wildheart": {
-            "playlist_id": "PLjm89uNYo4o6xjJZMqLzu1yiOnobRctci"
-        },
-        "mitski_be-the-cowboy": {
-            "playlist_id": "OLAK5uy_kPXuJ0JHp9Vg9Zi-hGZIgpSq0y0i9Q0ow"
-        },
-        "mitski_puberty-2": {
-            "playlist_id": "PLe56pDdb1CO_FtpPNYO2v_W_n6s9I5FzQ"
-        },
-        "modest-mouse_the-moon-antarctica": {
-            "playlist_id": "PL60A75664C6E91CD8"
-        },
-        "mormor_heaven-s-only-wishful": {
-            "playlist_id": "https://dbr.ee/luAB"
-        },
-        "moses-sumney_aromanticism": {
-            "playlist_id": "PLncVORBUjaPVjvWJWBlTU9nI7Ao22TB0a"
-        },
-        "moses-sumney_black-in-deep-red-2014": {
-            "playlist_id": "PLncVORBUjaPW6_FpVakmPzXg0cyzVdgnO"
-        },
-        "mount-eerie_a-crow-looked-at-me": {
-            "playlist_id": "PLql5iS_v44458IUDr0gGc3GkIyFUaelpY"
-        },
-        "mount-eerie_now-only": {
-            "playlist_id": "PLql5iS_v4445s2EKTgEhsbtc7Ns-iJEh8"
-        },
-        "m\u00f8_no-mythologies-to-follow": {
-            "playlist_id": "PLgpZwN52lVaaTVvu7LdyD6dpAPWkIPcqy"
-        },
-        "natalia-lafourcade_musas-vol-2": {
-            "playlist_id": "OLAK5uy_lfz5ebgK2EWARdW3kt2XbwBTm4TAmfYs4"
-        },
-        "natalie-prass_the-future-and-the-past": {
-            "playlist_id": "PLZqsyBiYZFQ2jGvF25838u33IGBx6dlgH"
-        },
-        "neko-case_hell-on": {
-            "playlist_id": "PLJ7QPuvv91JtndJx4lgXBiXm-l8Tmi9a8"
-        },
-        "neneh-cherry_broken-politics": {
-            "playlist_id": "https://dbr.ee/VXLV"
-        },
-        "neon-indian_vega-intl-night-school": {
-            "playlist_id": "PL5XEgo_taDjc3HRXrnyHxkKHXYJMkw89R"
-        },
-        "nick-cave-the-bad-seeds_skeleton-tree": {
-            "playlist_id": "PLcXviRsCvzrA1dYcDZnpByVVxSpES6sFh"
-        },
-        "nicolas-jaar_space-is-only-noise": {
-            "playlist_id": "OLAK5uy_mYmqMDg0NNNq_Q7x4h8mIZbVI1Fj1QDfc"
-        },
-        "niki_zephyr": {
-            "playlist_id": "PLCfH1g4h-nUmTZ6VhOU-iwe8XThTQJTSY"
-        },
-        "noname_room-25": {
-            "playlist_id": "PLSx1Kno-yof4FiN6m-UoqMiAiMSbwv7LN"
-        },
-        "odetta-hartman_old-rockhounds-never-die": {
-            "playlist_id": "OLAK5uy_k7ufyaYdzMnHGL5f3s2PcGHoDvItBwuWg"
-        },
-        "our-girl_stranger-today": {
-            "playlist_id": "OLAK5uy_l1KJ6tY-VfvYS_SeRU04d0-IPfXa6PRlo"
-        },
-        "ovlov_tru": {
-            "playlist_id": "OLAK5uy_kIIvSN_q_isDIMdz7A5B1nBQo8cCMymjU"
-        },
-        "parquet-courts_wide-awake": {
-            "playlist_id": "https://musicriders.blogspot.com/2018/05/parquet-courts-wide-awake-2018-mp3-320.html"
-        },
-        "passion-pit_gossamer": {
-            "playlist_id": "PLjLvpNEyqJb1jGjJQr-HlatHX8teqCMZb"
-        },
-        "perfume-genius_no-shape": {
-            "playlist_id": "https://mega.nz/#!pqAUTSCZ!YDBoGw7TqsUXxZ5EvkDtN7xkIr6eBcZtYNsx4fm5700"
-        },
-        "perfume-genius_too-bright": {
-            "playlist_id": "PLPaztBWnatcienoU0HM18kXV1-4ZACT7U"
-        },
-        "polyphia_new-levels-new-devils": {
-            "playlist_id": "PLN0q19AZLbScLK7Z9Yni9y6iubv1S8tBs"
-        },
-        "poppy_am-i-a-girl": {
-            "playlist_id": "PLDJuG2Og2Tso5hWgxtu5UBZxv9A6ZpiTP"
-        },
-        "protomartyr_relatives-in-descent": {
-            "playlist_id": "PLCqMMwVqEmTfQToUUlOC4lk82VDtjQpUl"
-        },
-        "punch-brothers_all-ashore": {
-            "playlist_id": "PLUwIuNafRzcJQlmt1-P0Q3-Ss_-FTHEXj"
-        },
-        "pusha-t_daytona": {
-            "playlist_id": "PLUuiba6ko475qUKTAAeKjm5w0ZIvSiv7-"
-        },
-        "radiohead_a-moon-shaped-pool": {
-            "playlist_id": "https://archive.org/details/moon_shaped_pool"
-        },
-        "radiohead_ok-computer": {
-            "playlist_id": "https://mega.nz/#!fdAzRALY!VjQ3Kdevki0bZXFikkgRHShFB3d6262ES_-BLRrovLs"
-        },
-        "rapsody_laila-s-wisdom": {
-            "playlist_id": "PL8KzYLItsQGnIgRe2J1WN9LSP3ZbUh7DE"
-        },
-        "richard-dawson_peasant": {
-            "playlist_id": "PLMY0dA6a14UnFi-TDPdRA17-rJ12LQSui"
-        },
-        "richard-swift_the-hex": {
-            "playlist_id": "PLZqsyBiYZFQ1guy4GZLbLkFp80sYNwNYP"
-        },
-        "rina-sawayama_rina": {
-            "playlist_id": "PLXRK1vlVlevRWuBkvQ6kiE8NununsxGXB"
-        },
-        "robyn_honey": {
-            "playlist_id": "OLAK5uy_mJ_tpu91cUuUQyXzb8ugw6CJFTQVdTeOs"
-        },
-        "roger-waters_is-this-the-life-we-really-want": {
-            "playlist_id": "OLAK5uy_mPigivZV2DMiN4zZXBZyuFIWJeIZ4PfJY"
-        },
-        "rolling-blackouts-coastal-fever_hope-downs": {
-            "playlist_id": "OLAK5uy_laSiyhV1jSB_x1dSuJtpFbVF18m3Vnz-4"
-        },
-        "rosal\u00eda_los-\u00e1ngeles": {
-            "playlist_id": "https://yadi.sk/d/6oRF9Zgl3MwGj8"
-        },
-        "ross-from-friends_family-portrait": {
-            "playlist_id": "OLAK5uy_l5gACxN6GcBQiZzpQtLVJJtWImHDkoid8"
-        },
-        "run-the-jewels_run-the-jewels-2": {
-            "playlist_id": "PL_rR2s4GqBlZisb9D65sfOsd0ahQhBiWY"
-        },
-        "sampha_process": {
-            "playlist_id": "https://nippybox.com/v/7658a9"
-        },
-        "sandro-perri_in-another-life": {
-            "playlist_id": "PL-bSvfZZ7m5GaqqyECfyGa5nznBbzHs1D"
-        },
-        "screaming-females_all-at-once": {
-            "playlist_id": "PLZWUtjG_TR9DbxTHUTtZoYIDkxC5-lnc9"
-        },
-        "sean-price_imperius-rex": {
-            "playlist_id": "PL2pOm9YhvU-mOQzQDItlpHhnvU653jQNF"
-        },
-        "sevdaliza_ison": {
-            "playlist_id": "PLwNLp5N0kbpTvuKH1B1i_cyR5Gj4b1GX4"
-        },
-        "shopping_the-official-body": {
-            "playlist_id": "PL5jyahL7x5OZe2iqQekz-mskCIoYTKhXP"
-        },
-        "shygirl_cruel-practice": {
-            "playlist_id": "OLAK5uy_kvK0QW2p40gfnBCcv21myuoWCSvlpVDAo"
-        },
-        "skee-mask_compro": {
-            "playlist_id": "PLfCO7Lt2JxuPirQ1iHAk_4SMqDS2y_RcK"
-        },
-        "sleep_the-sciences": {
-            "playlist_id": "PLpcyWaXsvItiE00jNJ8uOSfeVLaccZiab"
-        },
-        "slowdive_slowdive": {
-            "playlist_id": "OLAK5uy_l8gNk4QIz3gX-og4p77QI-gELx-w7wuk8"
-        },
-        "snail-mail_lush": {
-            "playlist_id": "https://musicriders.blogspot.com/2018/06/snail-mail-lush-2018-mp3-320-kbps.html"
-        },
-        "soccer-mommy_clean": {
-            "playlist_id": "PLt1w7xfPhaPVwOQDvRVWl5vbx3mlNYt_u"
-        },
-        "sophie_oil-of-every-pearl-s-un-insides": {
-            "playlist_id": "OLAK5uy_nIuWbmNU2rrHYHCIu_K8g_oj0y8TN7iH4"
-        },
-        "sorority-noise_you-re-not-as-_____-as-you-think": {
-            "playlist_id": "PLawMNLVMLgQU9pOZs9HP_B-4yHGlajQ3b"
-        },
-        "spiritualized_and-nothing-hurt": {
-            "playlist_id": "PLD1kZrKSMGqu8HtI3iPKlcttfAIgGYFUU"
-        },
-        "sufjan-stevens_carrie-lowell": {
-            "playlist_id": "PL67VKSNJdY_XBvoFECHFKyesxnDhTVM8N"
-        },
-        "sun-kil-moon_benji": {
-            "playlist_id": "OLAK5uy_nyvbyuFoBOSD-Jhdanlx9D8Bv0E4jis1o"
-        },
-        "superchunk_what-a-time-to-be-alive": {
-            "playlist_id": "https://rapidgator.net/file/0cbfdbc13e349caf968e5cfa14fcc6af/QC4QMctssJzwEIgZMeYq4tFU4hnCqKqkZ3UKb1LqNl8.rar.html"
-        },
-        "swans_to-be-kind": {
-            "playlist_id": "PLIwgH5JZBQRAnYRSKgqc644W4ix2XBohL"
-        },
-        "sza_ctrl": {
-            "playlist_id": "PLJhcEmii8vTjIjBRrzmLv9_eTi-lXVVsA"
-        },
-        "talking-heads_remain-in-light": {
-            "playlist_id": "PL654DKRvzWXD_OkCHy1acy--NNGgPK6E6"
-        },
-        "tame-impala_currents": {
-            "playlist_id": "PLvBhKwZcfMY1KVcawTU_-WqrhB34TGdce"
-        },
-        "tame-impala_lonerism": {
-            "playlist_id": "PL_yJ9KCASryX5sO4fvEiT0SFLZnjIj3eX"
-        },
-        "the-1975_a-brief-inquiry-into-online-relationships": {
-            "playlist_id": "OLAK5uy_kA8HMkORsvFG7dXjJ6wyP9QGixkjE1kZA"
-        },
-        "the-avalanches_since-i-left-you-original": {
-            "playlist_id": "https://www42.zippyshare.com/v/2pMhiSqM/file.html"
-        },
-        "the-avalanches_wildflower": {
-            "playlist_id": "PLcL7r_V9R9S7BmE5bjbjpok9ahApgs0eh"
-        },
-        "the-beatles_sgt-pepper-s-lonely-hearts-club-band": {
-            "fixed_tracks": [
-                "29 The Beatles - Strawberry Fields Forever (Stereo Mix 2015).webm"
-            ],
-            "playlist_id": "PLkB68gEAgGtg1Wl7dL06mG0v8jEgc01BX"
-        },
-        "the-beths_future-me-hates-me": {
-            "playlist_id": "PLlzMOwPS8UtarSlDVdH-5Vj2YVoOz0mku"
-        },
-        "the-carters_everything-is-love": {
-            "playlist_id": "OLAK5uy_kAtVOORRHrvDEoqgySPEYbGCRJId85Qo4"
-        },
-        "the-hold-steady_boys-and-girls-in-america": {
-            "playlist_id": "OLAK5uy_k3qK2OYpwrh8c7CzmW8MWcKmZo6XXyfQA"
-        },
-        "the-mountain-goats_goths": {
-            "playlist_id": "PLu3luErhmiVW3tMKKcrPEZcfC6Vo1qoh9"
-        },
-        "the-rolling-stones_exile-on-main-street-2010": {
-            "playlist_id": "OLAK5uy_mlSgwMnHtgteaiw5pjyjZFc6T2Y8BX7bw"
-        },
-        "the-rolling-stones_sticky-fingers": {
-            "playlist_id": "PL-mHRU6sejkIQ_9ctHcE1oy6LoVNzr2dy"
-        },
-        "the-velvet-underground_the-velvet-underground-and-nico": {
-            "playlist_id": "OLAK5uy_nW5yIMIRqVODLnwmonzbBv9UAS8bpSljs"
-        },
-        "the-voidz_virtue": {
-            "playlist_id": "PLt1w7xfPhaPW6mDO629nxbPDpLCTQ4mr8"
-        },
-        "the-war-on-drugs_a-deeper-understanding": {
-            "playlist_id": "PLbcerJq8u6IeW1YvvWK8SFYUdiYgSqW2q"
-        },
-        "the-xx_i-see-you": {
-            "playlist_id": "PLdimDtDCpVy-YnQsVO1FwTOXnKc3YHWPO"
-        },
-        "thee-oh-sees_orc": {
-            "playlist_id": "OLAK5uy_mxQuP1Esk-8Vbhi9QJ5TaQ5fM6w6FT_r0"
-        },
-        "thom-yorke_suspiria-music-for-the-luca-guadagnino-film": {
-            "playlist_id": "https://nocnahudba14.blogspot.com/2018/10/thom-yorke-suspiria-music-for-luca.html"
-        },
-        "tierra-whack_whack-world": {
-            "playlist_id": "PLACWcnK5xGjDa_YCVM7hIq9IwByxZLYaV"
-        },
-        "tim-hecker_virgins": {
-            "playlist_id": "PLBrkL3AHW9TnypoQlyJE4yU2F2Yn4aIFx"
-        },
-        "tirzah_devotion": {
-            "playlist_id": "OLAK5uy_lT27tBiVoMI2xmx7a2Mq7AhAvsl-sNYto"
-        },
-        "tomberlin_at-weddings": {
-            "playlist_id": "PLb94Zw9KCu-d5Ky2zvMReW5aXiHKB20vQ"
-        },
-        "tony-molina_kill-the-lights": {
-            "playlist_id": "OLAK5uy_lSGwGmNNamy_zFPXkEMopnMh9rFJkmAp8"
-        },
-        "tracyanne-danny_tracyanne-danny": {
-            "playlist_id": "OLAK5uy_k97ngnzT3XhNoptDrahW9SWZ-C67aoFyU"
-        },
-        "travis-scott_astroworld": {
-            "playlist_id": "PL9tY0BWXOZFvdeHbEJr7Wiztcue35IStT"
-        },
-        "tropical-fuck-storm_a-laughing-death-in-meatspace": {
-            "playlist_id": "OLAK5uy_kunoKqDVRMG5ALnSsXmd-H_Tntae5oOzg"
-        },
-        "troye-sivan_bloom": {
-            "playlist_id": "PL-pui3inIdui_E0As9VWVtn5KMXo3JvTg"
-        },
-        "tunng_songs-you-make-at-night": {
-            "playlist_id": "OLAK5uy_nmIWraIA5kt5tlKKh_gNt1e-srk8KxNSs"
-        },
-        "twenty-one-pilots_trench": {
-            "playlist_id": "PLsvpnLmgMjp_ibZan9OCtOA6qanF5PeoN"
-        },
-        "tyler-the-creator_flower-boy": {
-            "playlist_id": "PLcSxundcwECqb7nA_6wTUwUGHhkFb7XRs"
-        },
-        "u-s-girls_in-a-poem-unlimited": {
-            "playlist_id": "https://music314.com/3496/u-s-girls-in-a-poem-unlimited-2018-mp3"
-        },
-        "vagabon_infinite-worlds": {
-            "playlist_id": "PL3aPWjxREaXMcL5zQ4b7Gg0G5NF6cV9cR"
-        },
-        "vampire-weekend_modern-vampires-of-the-city": {
-            "playlist_id": "PLpSMVsIRq-N9T7IXvGJYZc93CUYE31VtQ"
-        },
-        "vessel_queen-of-golden-dogs": {
-            "playlist_id": "OLAK5uy_mtoeF0pjLIdDhJkoAGrqpFfoScJvIi_oI"
-        },
-        "vince-staples_big-fish-theory": {
-            "playlist_id": "PL_tHM44RJwFw6uygg1JTnaadgS2RiZT-V"
-        },
-        "vince-staples_fm": {
-            "playlist_id": "PL_CP5ywiVCT4sFAPRucOdAuJiT0vvbxWq"
-        },
-        "white-denim_performance": {
-            "playlist_id": "OLAK5uy_l5fatkwESaVgLqvKCqFPY9fW0RPuiV_XY"
-        },
-        "whitney_light-upon-the-lake": {
-            "playlist_id": "PLZqsyBiYZFQ0ZQwZymve4bwOlYfL1h-h_"
-        },
-        "wye-oak_the-louder-i-call-the-faster-it-runs": {
-            "playlist_id": "OLAK5uy_k-ZOln1Y_EK0_7atx2liefAikGl-gXhks"
-        },
-        "yob_our-raw-heart": {
-            "playlist_id": "OLAK5uy_l4W3g6kiBOp-qDwCkEbN4Btgv0-5qEZfA"
-        },
-        "zeal-ardor_stranger-fruit": {
-            "playlist_id": "OLAK5uy_nJUWkQiouLOELvg5XkL4p3FO3uFhfscFY"
-        },
-        "zola-jesus_okovi": {
-            "playlist_id": "PLzOJLg8rmLeBmsnLu0q50uN_ItQwM8zgG"
-        }
+    "adrianne-lenker_abysskiss": {
+        "playlist_id": "OLAK5uy_k8vK8wr3RwbWt48UD131tAV4DQgLtkC_c"
+    },
+    "against-all-logic_2012-2017": {
+        "playlist_id": "PL9rByFUQL1ASXGUMp8z-HNtn8wfhJG9r2"
+    },
+    "alex-cameron_forced-witness": {
+        "playlist_id": "PLLrMva2PXNL37NBdbL0IdIdoMPwu7CI4N"
+    },
+    "ali-farka-tour\u00e9_savane": {
+        "playlist_id": "PLetv3SCC-r3bbN5b7dM-u9TnA3er1Pa2Y"
+    },
+    "alvvays_antisocialites": {
+        "playlist_id": "PLJRigFWwgSN2-Mowutrzv4W3TRZ7IMhBT"
+    },
+    "amanda-shires_to-the-sunset": {
+        "playlist_id": "OLAK5uy_mGMg-AOrJKRhEDNC_Loxush1udsreO958"
+    },
+    "anderson-paak_oxnard": {
+        "playlist_id": "PL3-sRm8xAzY8wD_MzRw_ejN_gc2dhTYCS"
+    },
+    "andrew-w-k_you-re-not-alone": {
+        "playlist_id": "PLCHQlCLk3pxU2p-1_6AFI_jiSTC1iRBD-"
+    },
+    "angel-olsen_my-woman": {
+        "playlist_id": "PLZqsyBiYZFQ1Vh7YbSL6X8J2KPLjMWcpx"
+    },
+    "angelique-kidjo_remain-in-light": {
+        "playlist_id": "OLAK5uy_mbIYOh0HJq4wi9oYI-SjACbkSJHC_u7Ng"
+    },
+    "animal-collective_merriweather-post-pavilion": {
+        "playlist_id": "PLZqsyBiYZFQ1lSPbxpuTK288FXNy-2tQq"
+    },
+    "anna-calvi_hunter": {
+        "playlist_id": "OLAK5uy_k9ciU6AP2UtrYZ2r5dxvaq34GStCTZKuU"
+    },
+    "anna-von-hausswolff_dead-magic": {
+        "playlist_id": "PLMh7Rwn2z7rHV8T571lbENSrJWPy9CLk5"
+    },
+    "arca_mutant": {
+        "playlist_id": "OLAK5uy_nSkMetjEX8PhHXNrPWZktgW9Zgp9IwMeo"
+    },
+    "arcade-fire_funeral": {
+        "playlist_id": "PLC12F685485FFD45A"
+    },
+    "ariana-grande_sweetener": {
+        "playlist_id": "https://drive.google.com/drive/u/0/folders/1nKnwGqti4SnwEihHgvVHH4OeZvR-hKuQ"
+    },
+    "ariel-pink_dedicated-to-bobby-jameson": {
+        "playlist_id": "PLrpOUNXcaeIeLFiLGeNWdoQTMw3gBtj-3"
+    },
+    "armand-hammer_paraffin": {
+        "playlist_id": "OLAK5uy_nOpyNiiJyLuejDTsOuUTmdvC_rb1jTe70"
+    },
+    "beach-house_7": {
+        "playlist_id": "PL8jPTjX3P7qg1gEQSRQ8oUHctiZOGAn-L"
+    },
+    "beach-house_teen-dream": {
+        "playlist_id": "PLF-bpxVt63LqR0Ev5_y8xGx_jJvjh4a2n"
+    },
+    "belle-sebastian_the-boy-with-the-arab-strap": {
+        "playlist_id": "OLAK5uy_mDOCaCbhnTj7VOfl1QcGy4dhwcCr6Li1U"
+    },
+    "big-k-r-i-t_4eva-is-a-mighty-long-time": {
+        "playlist_id": "PL0uRqTtXXqOV2RT_Vf5eNpcUY1J1OPOWD"
+    },
+    "big-thief_capacity": {
+        "playlist_id": "PLb94Zw9KCu-dZOTOlQa-MLxdo6zhqeLdl"
+    },
+    "big-ups_two-parts-together": {
+        "playlist_id": "OLAK5uy_k-VLyfc6-qleFuINIoWVZ0s9jnzD5MlYA"
+    },
+    "bj\u00f6rk_homogenic": {
+        "playlist_id": "PL_PD_RD4vvcjjh0w_ohn1Fz4YVLmBLl9i"
+    },
+    "bj\u00f6rk_vespertine": {
+        "playlist_id": "PL1BCBDDA394C775C9"
+    },
+    "black-lips_arabia-mountain": {
+        "playlist_id": "PLryfkmCF1de9VMZVBh5yky57VBDDIA36f"
+    },
+    "black-thought_streams-of-thought-vol-1": {
+        "playlist_id": "PLeYkNbBsViDrW8-3XRmU6zNibpMYSSxw7"
+    },
+    "black-thought_streams-of-thought-vol-2": {
+        "playlist_id": "OLAK5uy_msjmlbSBaPGmnC9_8GTpXtRICa4EQ6SKE"
+    },
+    "blake-mills_look": {
+        "playlist_id": "OLAK5uy_kmHtECx2sIgLgQNA6Yzemix9DSuSOuXyQ"
+    },
+    "blood-orange_freetown-sound": {
+        "playlist_id": "PLm1szpOehiwMT4MMjYLj0DP16UutHM-Dn"
+    },
+    "blood-orange_negro-swan": {
+        "playlist_id": "OLAK5uy_lkrhpzrUeq62EzDZ3TLlLwqtpUZecstFg"
+    },
+    "bon-iver_22-a-million": {
+        "playlist_id": "PLLDTXYBgvaFbkFPfpcoZd2vIbbdJAXZbT"
+    },
+    "bon-iver_bon-iver": {
+        "playlist_id": "PL3A4A38A32151F5B9"
+    },
+    "brand-new_science-fiction": {
+        "playlist_id": "PLJLch4po_PiYy-B2wpaczl08OC7z8jLAt"
+    },
+    "brockhampton-saturation": {
+        "fixed_tracks": [
+            "07 FAKE.webm",
+            "08 BANK.webm",
+            "13 CASH.webm",
+            "14 SKIT 3.m4a",
+            "15 MILK.webm"
+        ],
+        "playlist_id": "PLKIjVmbmuiOHRLsyYGAgz0sJBiHNdaF1k"
+    },
+    "brockhampton_saturation-ii": {
+        "playlist_id": "PLMcVT1uRVF45XfAdqTf0XuOezo1lxAlcE"
+    },
+    "brockhampton_saturation-iii": {
+        "playlist_id": "PL8dQn-hifgZqzxc8Epv1radVkyMlOx-eD"
+    },
+    "broken-social-scene_hug-of-thunder": {
+        "playlist_id": "PLPvQODocvUhSgKth6YGEA-RGuL6ZBI3mK"
+    },
+    "car-seat-headrest_teens-of-denial": {
+        "playlist_id": "https://mega.nz/#!1exhQDSa!o5qZTk9HBukZ7fj_lRKZ4QzdQWeBSNVI6OzV0J0Nxp8"
+    },
+    "car-seat-headrest_twin-fantasy": {
+        "playlist_id": "PLUkpIIjyrx_snVKZyBGd8HKPEp2Hhvluu"
+    },
+    "cardi-b_invasion-of-privacy": {
+        "playlist_id": "PLATQ8iWXs4GwvAdM7AkI7gx8QqFAHo68L"
+    },
+    "carly-rae-jepsen_emotion": {
+        "playlist_id": "PLQX7wLlX1V9GNA9kSZSJqwW-5-3WETWJ6"
+    },
+    "chance-the-rapper_coloring-book": {
+        "playlist_id": "OLAK5uy_lonMuZ6Ovr6ZzoOOfbhu9QOAv6bv0hRVA"
+    },
+    "charli-xcx_pop-2": {
+        "playlist_id": "PLq9q26-M-R4C7kwwgv_yg17eOtijnMB0q"
+    },
+    "charlotte-gainsbourg_rest": {
+        "playlist_id": "PLbcerJq8u6Ichqcro1y0AgnBHhkuKGVkb"
+    },
+    "christine-and-the-queens_chris": {
+        "playlist_id": "https://musicriders.blogspot.com/2018/09/christine-and-queens-chris-2018.html"
+    },
+    "circuit-des-yeux_reaching-for-indigo": {
+        "playlist_id": "http://folkindie.blogspot.com/2018/11/circuit-des-yeux.html"
+    },
+    "circulatory-system_circulatory-system": {
+        "playlist_id": "OLAK5uy_nRg_2C92faewbM3dZl0fABQSRiYBfAp7A"
+    },
+    "circulatory-system_signal-morning": {
+        "playlist_id": "OLAK5uy_ldvdVyt6cIaglh0vY5-g2ceUHgen0qUvo"
+    },
+    "clarence-clarity_no-now": {
+        "playlist_id": "PLGgD8QHAH8BRNY4IqYerubIY_Ax7-yRcV"
+    },
+    "clarence-clarity_think-peace": {
+        "playlist_id": "PL7ZMiei9u5G9nn4N3ox5q6fS3o30kE_9a"
+    },
+    "cowboy-junkies_all-that-reckoning": {
+        "playlist_id": "OLAK5uy_nf0JKDumExxCWZ6FNiKHl7GxrSJDdyOog"
+    },
+    "cupcakke_ephorize": {
+        "playlist_id": "PLcarFWgDO1UDYw5k83XIruDcBkLSYr6q9"
+    },
+    "current-93_the-light-is-leaving-us-all": {
+        "playlist_id": "PL4LQv-UIpzAm3YHIQPDws4FROJ_k_SeXS"
+    },
+    "d-angelo_black-messiah": {
+        "playlist_id": "PL4LyJBWB_4o6VkpKgyD5UHNBBFGE5phfc"
+    },
+    "danny-brown_atrocity-exhibition": {
+        "playlist_id": "PL-ws09Ilvqu_twtJzwQ2uQUVRfrCMguWb"
+    },
+    "daughters_you-won-t-get-what-you-want": {
+        "playlist_id": "PLCCofuEvZzWUIrGKAOqcnU73DHXyrSqt5"
+    },
+    "david-bowie_the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars": {
+        "playlist_id": "PL9dLjK8hFNprgODb29hA6HSkEzFZhwsdN"
+    },
+    "daym\u00e9-arocena_cubafon\u00eda": {
+        "playlist_id": "OLAK5uy_k2JM2Fnre_L43mmSSu3PITL3W3Xja8SHY"
+    },
+    "dead-can-dance_dionysus": {
+        "playlist_id": "OLAK5uy_mE8VOQMMxlXL7H6TzEizp3toOtlD1p-p0"
+    },
+    "deafheaven_ordinary-corrupt-human-love": {
+        "playlist_id": "PLYwfYGziz-_33Dh8q9rHd4ig-trsJUuw8"
+    },
+    "deafheaven_sunbather": {
+        "playlist_id": "PLZqsyBiYZFQ0da3amOC_4Kr5flqbIVLEH"
+    },
+    "death-from-above-1979_outrage-is-now": {
+        "playlist_id": "PLQiXqpQwSrlXcKTjpvTNfCaW9fMH8d-Ej"
+    },
+    "death-grips_the-money-store": {
+        "playlist_id": "PL2D59D51BDE448389"
+    },
+    "death-grips_year-of-the-snitch": {
+        "playlist_id": "OLAK5uy_nlI-9MzJWDiLzM3jtthE2m8Z7OK96aqDg"
+    },
+    "denzel-curry_ta13oo": {
+        "playlist_id": "OLAK5uy_kkZn-6jHfLglP4wlmzRNLG-qxKpgfwJ9g"
+    },
+    "dorian-concept_the-nature-of-imitation": {
+        "playlist_id": "OLAK5uy_lEqqdqrYVXFaR_FR4GQPiVpq8hYOsrs5Q"
+    },
+    "dungen_ta-det-lugnt": {
+        "playlist_id": "OLAK5uy_mWsOPhrFkQ4xGM3uAS3hVedpU8B5etQC8"
+    },
+    "earl-sweatshirt_some-rap-songs": {
+        "playlist_id": "PLkuwENv3kgsKgxOgqWxaS5P96Mq9XKstC"
+    },
+    "empress-of_me": {
+        "playlist_id": "PLRMRoPrdVD1IgTKykJlLy6wGr_CVPEvR5"
+    },
+    "father-john-misty_i-love-you-honeybear": {
+        "playlist_id": "OLAK5uy_lljvD54d3r3IzHENlxCgLGdNh9jhTEkD8"
+    },
+    "fever-ray_fever-ray": {
+        "playlist_id": "PLhAmBC_dwmTYZ99-m2YOw4-_ZqeHS3bwe"
+    },
+    "fka-twigs_m3ll155x": {
+        "playlist_id": "PLysIdEafcgigzFOB1e3WqfSMTpExWviBZ"
+    },
+    "fleet-foxes_helplessness-blues": {
+        "playlist_id": "PLqJtvK-CApQq77FqnaOequJlQ1DxpucYu"
+    },
+    "four-tet_there-is-love-in-you": {
+        "playlist_id": "http://www.mediafire.com/file/72irc8hclmflvez/Fr+Tt+-+Thr+is+lv+in+y+%282010%29.rar"
+    },
+    "foxing_nearer-my-god": {
+        "playlist_id": "PLawMNLVMLgQWvs_tov0IWlOOIG8yEmqWi"
+    },
+    "frank-ocean_channel-orange-explicit-version": {
+        "playlist_id": "PLX68ZEYlh74vDJY4XR775HHifYT7IeXsj"
+    },
+    "fucked-up_dose-your-dreams": {
+        "playlist_id": "PL-uYFLSpPzNDHIaMHLy5OVqGeyfBzxutd"
+    },
+    "future_ds2": {
+        "playlist_id": "PL08QO4-WZCIfdiiadD89VRrVFydH-TSzT"
+    },
+    "gaika_basic-volume": {
+        "playlist_id": "OLAK5uy_lcyq7qDS7DFLsJQyS9oVnpGbC6aS5uzmo"
+    },
+    "ghost_prequelle": {
+        "playlist_id": "PLBkHOnPbMitt9OXCVIMtBMazjRxsCe6lp"
+    },
+    "girlpool_powerplant": {
+        "playlist_id": "https://music314.com/20925/girlpool-powerplant-2017-mp3"
+    },
+    "glass-animals_how-to-be-a-human-being": {
+        "playlist_id": "PLQReQsnItdzYQzuK2yD7ipXIT9ce9WAWA"
+    },
+    "godspeed-you-black-emperor_lift-your-skinny-fists-like-antennas-to-heaven": {
+        "playlist_id": "OLAK5uy_mZLN6LQOH-pyVdbP_PZoWS75eKSwskkCo"
+    },
+    "grimes_art-angels": {
+        "playlist_id": "PLZqsyBiYZFQ2U2IoBiKJVreYb77td7pOT"
+    },
+    "gruff-rhys_babelsberg": {
+        "playlist_id": "https://www14.zippyshare.com/v/1NDJMdeZ/file.html"
+    },
+    "guerilla-toss_gt-ultra": {
+        "playlist_id": "PLfxn3BO5XadHelTmMovY3AUkr3z7iS2Wh"
+    },
+    "guerilla-toss_twisted-crystal": {
+        "playlist_id": "OLAK5uy_k6Yks3su1hFjkl7A4PdzeDCadwhmhkK-s"
+    },
+    "hamilton-leithauser-rostam_i-had-a-dream-that-you-were-mine": {
+        "playlist_id": "PLWmJtVAyQQRBlV1hMM30MdTmKDQCC7gAe"
+    },
+    "hermit-and-the-recluse_orpheus-vs-the-sirens": {
+        "playlist_id": "OLAK5uy_m4DdkEfcbOnuyX5-xaV3SZubUW125-mzg"
+    },
+    "hmltd_hate-music-last-time-delete-ep": {
+        "playlist_id": "OLAK5uy_mVM4vZZEPkWgAYP05MxUXhMkwgNj3vhcs"
+    },
+    "hop-along_bark-your-head-off-dog": {
+        "playlist_id": "PLb94Zw9KCu-dVMAN05NpBahT4eQr0WKOj"
+    },
+    "iceage_new-brigade": {
+        "playlist_id": "PLV8Ny7uy7Kl3r7tj5kM229e5jZik9Tt_I"
+    },
+    "idles_joy-as-an-act-of-resistance": {
+        "fixed_tracks": [
+            "01 - IDLES - COLOSSUS.mp3",
+            "04 - IDLES - DANNY NEDELKO.mp3",
+            "07 - IDLES - SAMARITANS.mp3"
+        ],
+        "playlist_id": "PL1h1aQTAqESvkXWD8Sjt9zaeVflDbwPd5"
+    },
+    "iglooghost_ne\u014d-wax-bloom": {
+        "playlist_id": "OLAK5uy_mA5zGLQcpXpuCjHwYx8wthdz1GOJOKv5c"
+    },
+    "imperial-triumphant_vile-luxury": {
+        "playlist_id": "OLAK5uy_lVjYaXVfaVHDEWPuVzjgAXZIFEQQF32E8"
+    },
+    "interpol_turn-on-the-bright-lights": {
+        "playlist_id": "https://www.dropbox.com/sh/x3d29aykpdkkk8h/AAAZbSbawnzQhiBey8TggTmFa?dl=1"
+    },
+    "jack-white_boarding-house-reach": {
+        "playlist_id": "PLzWmNYF6L9EHDni4gpY6sR9ZsfryYCnrg"
+    },
+    "jake-shears_jake-shears": {
+        "playlist_id": "OLAK5uy_mo1oMSTfYnIOJJfZDHlHcFJVR_nHvRpwc"
+    },
+    "james-blake_the-colour-in-anything": {
+        "playlist_id": "PL5tJG0I1m7g5VrmWEP54t9qblLMw4PR-L"
+    },
+    "janelle-mon\u00e1e_dirty-computer": {
+        "playlist_id": "PLql5iS_v4447gHNRzSujBTL5a4dTez15s"
+    },
+    "janelle-mon\u00e1e_the-archandroid": {
+        "playlist_id": "PL6B9209162C4A40EC"
+    },
+    "japanese-breakfast_psychopomp": {
+        "playlist_id": "OLAK5uy_nYm7aT7gfhwUpT4PGFiL6H5GkY4XR95Tc"
+    },
+    "japanese-breakfast_soft-sounds-from-another-planet": {
+        "playlist_id": "PLOkKqTdiv7GawlJKnI_cB2V1W6wAc93E4"
+    },
+    "jay-som_everybody-works": {
+        "playlist_id": "PLBUI50CY-Z8uwsV5scDx2JTV4Y9r2_Rde"
+    },
+    "jean-grae_everything-s-fine": {
+        "playlist_id": "OLAK5uy_nKwqa2DtMGgbehqV7QOTbw91c96Zt6pDM"
+    },
+    "jeff-rosenstock_post": {
+        "playlist_id": "PLPSGTeQAOKdlZTbVf-YcjAX0ZaXq3rfh6"
+    },
+    "jeff-tweedy_warm": {
+        "playlist_id": "OLAK5uy_lRVzNvEXaQqKVHExyyi8u1fWeVT_iaVDg"
+    },
+    "jid_dicaprio-2": {
+        "playlist_id": "OLAK5uy_njUIFbvYTX3A7zz5a3CQry8ShvBUuR0R0"
+    },
+    "jmsn_velvet": {
+        "playlist_id": "PLmZeMV8zPuNJ8nfZtOqMWIOEkzfd6s-DZ"
+    },
+    "jon-hopkins_singularity": {
+        "playlist_id": "PL840CtJwfhhkD7y7zYSxbsNgaNKAkpToB"
+    },
+    "jorja-smith_lost-found": {
+        "playlist_id": "PLO2Bha79D2faBf4qLJoNht1546aUicY_l"
+    },
+    "joy-division_unknown-pleasures": {
+        "playlist_id": "PL226780F9FEE5BE26"
+    },
+    "jpegmafia_veteran": {
+        "playlist_id": "https://music314.com/4874/jpegmafia-veteran-2018-mp3"
+    },
+    "julia-holter_aviary": {
+        "playlist_id": "OLAK5uy_nhD4ipyN1iLg3P5jw8gwwP-wrlLsuP_bI"
+    },
+    "julia-holter_have-you-in-my-wilderness": {
+        "playlist_id": "PLPaztBWnatciqj1nHn8hFQ0DqvrF9fbDp"
+    },
+    "julie-byrne_not-even-happiness": {
+        "playlist_id": "OLAK5uy_maHrmDwG-3PoCl9AZAtlC8V6ZSr6Yw0hc"
+    },
+    "julien-baker_boygenius": {
+        "playlist_id": "https://www2.streethiphop.org/full-ep-julien-baker-phoebe-bridgers-lucy-dacus-boygenius-320-kbps-itunes-plus"
+    },
+    "julien-baker_turn-out-the-lights": {
+        "playlist_id": "http://s6.faz-dl.top/user2/farvardin/mp3/Julien%20Baker%20-%20Turn%20Out%20the%20Lights(320)"
+    },
+    "kadhja-bonet_childqueen": {
+        "playlist_id": "PLNdp4WJIUkLvaLQ9SBlmdQNQRIzv1RXMC"
+    },
+    "kai-whiston_kai-whiston-bitch": {
+        "playlist_id": "OLAK5uy_n_Yzv9hk2R4sHYb8uf3aTPgUJiTFpg2AM"
+    },
+    "kali-uchis_isolation": {
+        "playlist_id": "PLzmZzpskmgp__g5xg4QtOPrxXgq6trd_1"
+    },
+    "kamasi-washington_the-epic": {
+        "playlist_id": "PLT_aBs9pjfFY_EKyN9ETe8mCVAe5hpkb1"
+    },
+    "kanye-west_yeezus": {
+        "playlist_id": "PLY6gDeHQ2ViWvHWTgnFcLn-1lNSAMpp3t"
+    },
+    "kathryn-joseph_from-when-i-wake-the-want-is": {
+        "playlist_id": "PLveYdzLP3XxXbvahHL82CzGy5M-tUpWkV"
+    },
+    "kelela_take-me-apart": {
+        "playlist_id": "https://www69.zippyshare.com/v/qK2OQd6p/file.html"
+    },
+    "kendrick-lamar_good-kid-m-a-a-d-city": {
+        "playlist_id": "PLZyngM228ohTZ-LOX4Pv8KQcMnr3j-jaQ"
+    },
+    "kendrick-lamar_to-pimp-a-butterfly": {
+        "playlist_id": "http://www.mediafire.com/file/1v33lsxrxc3t11p/KL-TPAB.7z"
+    },
+    "kero-kero-bonito_time-n-place": {
+        "playlist_id": "PLkoYlLJnTbuBUXqHD9lyvFRbbhuBNwGKW"
+    },
+    "kids-see-ghosts_kids-see-ghosts": {
+        "playlist_id": "PLgVCnlWJ-T6MtWdxF8R3XJ9TsQ6F2hm04"
+    },
+    "king-gizzard-the-lizard-wizard_nonagon-infinity": {
+        "playlist_id": "PLipNtp5-1aLdb9GHv55bt808ZTn-rrMtZ"
+    },
+    "laura-marling_once-i-was-an-eagle": {
+        "playlist_id": "OLAK5uy_nPjz0GGCcaErrQNxFa3-qQRl5PdVhUycc"
+    },
+    "laura-marling_semper-femina": {
+        "playlist_id": "OLAK5uy_n7gR7lsS3tMmHhH6V571ZPtmo3B0l6Vhg"
+    },
+    "laurel-halo_raw-silk-uncut-wood": {
+        "playlist_id": "PLZqsyBiYZFQ1sE9BXLIvYqSzaKkqBVRik"
+    },
+    "lcd-soundsystem_american-dream": {
+        "playlist_id": "PLh_TeswTk7TSNLSJRs4psQpaaCCsLaYZr"
+    },
+    "lcd-soundsystem_sound-of-silver": {
+        "playlist_id": "PLxk9F7-dvpqqms8EE9kcYf9ODmK2LMNhh"
+    },
+    "lcd-soundsystem_this-is-happening": {
+        "playlist_id": "PLEC1D67F542EB88A0"
+    },
+    "leon-vynehall_nothing-is-still": {
+        "playlist_id": "OLAK5uy_l3ZL9ckfSWbjDx1znAV1a8AxNQAqNRfjk"
+    },
+    "leonard-cohen_you-want-it-darker": {
+        "playlist_id": "PL4SnPCOcKRxZzfa0Mn8y32mr2AR6hOqMx"
+    },
+    "let-s-eat-grandma_i-m-all-ears": {
+        "playlist_id": "PL_WVCXL90JhfWanlMmZZgU1Oj5nvN7fUO"
+    },
+    "lorde_melodrama": {
+        "playlist_id": "PLvm6B0LWgqu9pWrYmmC-6ETs7yDcfHyl9"
+    },
+    "loretta-lynn_van-lear-rose": {
+        "playlist_id": "PLkEx8_pFoyQQ9UhoAQyMsMxMTnarg03Wn"
+    },
+    "louis-cole_time": {
+        "playlist_id": "PLQaADDdbXHx5OXsHIYURWW7lvm5-FdWeg"
+    },
+    "low_double-negative": {
+        "playlist_id": "https://rlsbb.prox4you.fun/low-double-negative-itunes-plus-aac-m4a"
+    },
+    "lucy-dacus_historian": {
+        "playlist_id": "https://music314.com/5478/lucy-dacus-historian-2018-mp3"
+    },
+    "lump_lump": {
+        "playlist_id": "OLAK5uy_lvgXMS7F9cOmJwzTfz1DeeOVTkL9QoOIE"
+    },
+    "mac-demarco_salad-days": {
+        "playlist_id": "OLAK5uy_kUbiMCP3VgMg7FdL9CK3cxT95J5db-Irc"
+    },
+    "mac-miller_swimming": {
+        "playlist_id": "OLAK5uy_nDheeuXYg9hksmCezWxswPTivVoqyNCQc"
+    },
+    "madeon_adventure": {
+        "playlist_id": "PLDE8ygJAGShf9Mz6Cxp8z5dYAA0jzDjGe"
+    },
+    "madvillain_madvillainy": {
+        "playlist_id": "PL9dk_xtWpAkKs1-EKcvq-nKwdaaS-3czd"
+    },
+    "marissa-nadler_for-my-crimes": {
+        "playlist_id": "PL9bSJg1CVviL0wTWpNNG8ejOK-V-6C7Df"
+    },
+    "marissa-nadler_july": {
+        "playlist_id": "PLzIud-bz-SGYeLshECdsbyaajqjAp1_Bn"
+    },
+    "mark-lanegan_with-animals": {
+        "playlist_id": "PLr1eH5xbkBofIeOWmY57Jk2NPEQ1sig8y"
+    },
+    "melody-s-echo-chamber_bon-voyage": {
+        "playlist_id": "PLQgE9Vahqeq3KbNLVQjYrsQLqHTrPSY9s"
+    },
+    "metallica_master-of-puppets-box-set": {
+        "playlist_id": "PLdWtNvjCCo2UAPnTYLzsuAycSu-S0bEP_"
+    },
+    "mgmt_little-dark-age": {
+        "playlist_id": "PLNpYr8fir1tmUY0LvN6xlwjz6W7yBJVm_"
+    },
+    "miguel_war-leisure": {
+        "playlist_id": "PLk9H0l8yuKpNRJsq1ARRQQu1cG9Z63OEi"
+    },
+    "miguel_wildheart": {
+        "playlist_id": "PLjm89uNYo4o6xjJZMqLzu1yiOnobRctci"
+    },
+    "mitski_be-the-cowboy": {
+        "playlist_id": "OLAK5uy_kPXuJ0JHp9Vg9Zi-hGZIgpSq0y0i9Q0ow"
+    },
+    "mitski_puberty-2": {
+        "playlist_id": "PLe56pDdb1CO_FtpPNYO2v_W_n6s9I5FzQ"
+    },
+    "modest-mouse_the-moon-antarctica": {
+        "playlist_id": "PL60A75664C6E91CD8"
+    },
+    "mormor_heaven-s-only-wishful": {
+        "playlist_id": "https://dbr.ee/luAB"
+    },
+    "moses-sumney_aromanticism": {
+        "playlist_id": "PLncVORBUjaPVjvWJWBlTU9nI7Ao22TB0a"
+    },
+    "moses-sumney_black-in-deep-red-2014": {
+        "playlist_id": "PLncVORBUjaPW6_FpVakmPzXg0cyzVdgnO"
+    },
+    "mount-eerie_a-crow-looked-at-me": {
+        "playlist_id": "PLql5iS_v44458IUDr0gGc3GkIyFUaelpY"
+    },
+    "mount-eerie_now-only": {
+        "playlist_id": "PLql5iS_v4445s2EKTgEhsbtc7Ns-iJEh8"
+    },
+    "m\u00f8_no-mythologies-to-follow": {
+        "playlist_id": "PLgpZwN52lVaaTVvu7LdyD6dpAPWkIPcqy"
+    },
+    "natalia-lafourcade_musas-vol-2": {
+        "playlist_id": "OLAK5uy_lfz5ebgK2EWARdW3kt2XbwBTm4TAmfYs4"
+    },
+    "natalie-prass_the-future-and-the-past": {
+        "playlist_id": "PLZqsyBiYZFQ2jGvF25838u33IGBx6dlgH"
+    },
+    "neil-cicierega_mouth-moods": {
+        "playlist_id": "http://www.neilcic.com/mouthmoods"
+    },
+    "neko-case_hell-on": {
+        "playlist_id": "PLJ7QPuvv91JtndJx4lgXBiXm-l8Tmi9a8"
+    },
+    "neneh-cherry_broken-politics": {
+        "playlist_id": "https://dbr.ee/VXLV"
+    },
+    "neon-indian_vega-intl-night-school": {
+        "playlist_id": "PL5XEgo_taDjc3HRXrnyHxkKHXYJMkw89R"
+    },
+    "nick-cave-the-bad-seeds_skeleton-tree": {
+        "playlist_id": "PLcXviRsCvzrA1dYcDZnpByVVxSpES6sFh"
+    },
+    "nicolas-jaar_space-is-only-noise": {
+        "playlist_id": "OLAK5uy_mYmqMDg0NNNq_Q7x4h8mIZbVI1Fj1QDfc"
+    },
+    "niki_zephyr": {
+        "playlist_id": "PLCfH1g4h-nUmTZ6VhOU-iwe8XThTQJTSY"
+    },
+    "noname_room-25": {
+        "playlist_id": "PLSx1Kno-yof4FiN6m-UoqMiAiMSbwv7LN"
+    },
+    "odetta-hartman_old-rockhounds-never-die": {
+        "playlist_id": "OLAK5uy_k7ufyaYdzMnHGL5f3s2PcGHoDvItBwuWg"
+    },
+    "our-girl_stranger-today": {
+        "playlist_id": "OLAK5uy_l1KJ6tY-VfvYS_SeRU04d0-IPfXa6PRlo"
+    },
+    "ovlov_tru": {
+        "playlist_id": "OLAK5uy_kIIvSN_q_isDIMdz7A5B1nBQo8cCMymjU"
+    },
+    "parquet-courts_wide-awake": {
+        "playlist_id": "https://musicriders.blogspot.com/2018/05/parquet-courts-wide-awake-2018-mp3-320.html"
+    },
+    "passion-pit_gossamer": {
+        "playlist_id": "PLjLvpNEyqJb1jGjJQr-HlatHX8teqCMZb"
+    },
+    "perfume-genius_no-shape": {
+        "playlist_id": "https://mega.nz/#!pqAUTSCZ!YDBoGw7TqsUXxZ5EvkDtN7xkIr6eBcZtYNsx4fm5700"
+    },
+    "perfume-genius_too-bright": {
+        "playlist_id": "PLPaztBWnatcienoU0HM18kXV1-4ZACT7U"
+    },
+    "polyphia_new-levels-new-devils": {
+        "playlist_id": "PLN0q19AZLbScLK7Z9Yni9y6iubv1S8tBs"
+    },
+    "poppy_am-i-a-girl": {
+        "playlist_id": "PLDJuG2Og2Tso5hWgxtu5UBZxv9A6ZpiTP"
+    },
+    "protomartyr_relatives-in-descent": {
+        "playlist_id": "PLCqMMwVqEmTfQToUUlOC4lk82VDtjQpUl"
+    },
+    "punch-brothers_all-ashore": {
+        "playlist_id": "PLUwIuNafRzcJQlmt1-P0Q3-Ss_-FTHEXj"
+    },
+    "pusha-t_daytona": {
+        "playlist_id": "PLUuiba6ko475qUKTAAeKjm5w0ZIvSiv7-"
+    },
+    "queens-of-the-stone-age_-like-clockwork": {
+        "playlist_id": [
+            "https://murodoclassicrock4.blogspot.com/2013/05/queens-of-stone-age-discografia.html",
+            "https://www100.zippyshare.com/v/kFYExh1h/file.html"
+        ]
+    },
+    "radiohead_a-moon-shaped-pool": {
+        "playlist_id": "https://archive.org/details/moon_shaped_pool"
+    },
+    "radiohead_ok-computer": {
+        "playlist_id": "https://mega.nz/#!fdAzRALY!VjQ3Kdevki0bZXFikkgRHShFB3d6262ES_-BLRrovLs"
+    },
+    "rapsody_laila-s-wisdom": {
+        "playlist_id": "PL8KzYLItsQGnIgRe2J1WN9LSP3ZbUh7DE"
+    },
+    "richard-dawson_peasant": {
+        "playlist_id": "PLMY0dA6a14UnFi-TDPdRA17-rJ12LQSui"
+    },
+    "richard-swift_the-hex": {
+        "playlist_id": "PLZqsyBiYZFQ1guy4GZLbLkFp80sYNwNYP"
+    },
+    "rina-sawayama_rina": {
+        "playlist_id": "PLXRK1vlVlevRWuBkvQ6kiE8NununsxGXB"
+    },
+    "robyn_honey": {
+        "playlist_id": "OLAK5uy_mJ_tpu91cUuUQyXzb8ugw6CJFTQVdTeOs"
+    },
+    "roger-waters_is-this-the-life-we-really-want": {
+        "playlist_id": "OLAK5uy_mPigivZV2DMiN4zZXBZyuFIWJeIZ4PfJY"
+    },
+    "rolling-blackouts-coastal-fever_hope-downs": {
+        "playlist_id": "OLAK5uy_laSiyhV1jSB_x1dSuJtpFbVF18m3Vnz-4"
+    },
+    "rosal\u00eda_los-\u00e1ngeles": {
+        "playlist_id": "https://yadi.sk/d/6oRF9Zgl3MwGj8"
+    },
+    "ross-from-friends_family-portrait": {
+        "playlist_id": "OLAK5uy_l5gACxN6GcBQiZzpQtLVJJtWImHDkoid8"
+    },
+    "run-the-jewels_run-the-jewels-2": {
+        "playlist_id": "PL_rR2s4GqBlZisb9D65sfOsd0ahQhBiWY"
+    },
+    "sampha_process": {
+        "playlist_id": "https://nippybox.com/v/7658a9"
+    },
+    "sandro-perri_in-another-life": {
+        "playlist_id": "PL-bSvfZZ7m5GaqqyECfyGa5nznBbzHs1D"
+    },
+    "screaming-females_all-at-once": {
+        "playlist_id": "PLZWUtjG_TR9DbxTHUTtZoYIDkxC5-lnc9"
+    },
+    "sean-price_imperius-rex": {
+        "playlist_id": "PL2pOm9YhvU-mOQzQDItlpHhnvU653jQNF"
+    },
+    "sevdaliza_ison": {
+        "playlist_id": "PLwNLp5N0kbpTvuKH1B1i_cyR5Gj4b1GX4"
+    },
+    "shopping_the-official-body": {
+        "playlist_id": "PL5jyahL7x5OZe2iqQekz-mskCIoYTKhXP"
+    },
+    "shygirl_cruel-practice": {
+        "playlist_id": "OLAK5uy_kvK0QW2p40gfnBCcv21myuoWCSvlpVDAo"
+    },
+    "skee-mask_compro": {
+        "playlist_id": "PLfCO7Lt2JxuPirQ1iHAk_4SMqDS2y_RcK"
+    },
+    "sleep_the-sciences": {
+        "playlist_id": "PLpcyWaXsvItiE00jNJ8uOSfeVLaccZiab"
+    },
+    "slowdive_slowdive": {
+        "playlist_id": "OLAK5uy_l8gNk4QIz3gX-og4p77QI-gELx-w7wuk8"
+    },
+    "snail-mail_lush": {
+        "playlist_id": "https://musicriders.blogspot.com/2018/06/snail-mail-lush-2018-mp3-320-kbps.html"
+    },
+    "soccer-mommy_clean": {
+        "playlist_id": "PLt1w7xfPhaPVwOQDvRVWl5vbx3mlNYt_u"
+    },
+    "sons-of-kemet_your-queen-is-a-reptile": {
+        "playlist_id": "PLbcerJq8u6Ie0nLEhrpugmbVVxu_oNh-D"
+    },
+    "sophie_oil-of-every-pearl-s-un-insides": {
+        "playlist_id": "OLAK5uy_nIuWbmNU2rrHYHCIu_K8g_oj0y8TN7iH4"
+    },
+    "sorority-noise_you-re-not-as-_____-as-you-think": {
+        "playlist_id": "PLawMNLVMLgQU9pOZs9HP_B-4yHGlajQ3b"
+    },
+    "spiritualized_and-nothing-hurt": {
+        "playlist_id": "PLD1kZrKSMGqu8HtI3iPKlcttfAIgGYFUU"
+    },
+    "sufjan-stevens_carrie-lowell": {
+        "playlist_id": "PL67VKSNJdY_XBvoFECHFKyesxnDhTVM8N"
+    },
+    "sun-kil-moon_benji": {
+        "playlist_id": "OLAK5uy_nyvbyuFoBOSD-Jhdanlx9D8Bv0E4jis1o"
+    },
+    "superchunk_what-a-time-to-be-alive": {
+        "playlist_id": "https://rapidgator.net/file/0cbfdbc13e349caf968e5cfa14fcc6af/QC4QMctssJzwEIgZMeYq4tFU4hnCqKqkZ3UKb1LqNl8.rar.html"
+    },
+    "swans_to-be-kind": {
+        "playlist_id": "PLIwgH5JZBQRAnYRSKgqc644W4ix2XBohL"
+    },
+    "sza_ctrl": {
+        "playlist_id": "PLJhcEmii8vTjIjBRrzmLv9_eTi-lXVVsA"
+    },
+    "talking-heads_remain-in-light": {
+        "playlist_id": "PL654DKRvzWXD_OkCHy1acy--NNGgPK6E6"
+    },
+    "tame-impala_currents": {
+        "playlist_id": "PLvBhKwZcfMY1KVcawTU_-WqrhB34TGdce"
+    },
+    "tame-impala_lonerism": {
+        "playlist_id": "PL_yJ9KCASryX5sO4fvEiT0SFLZnjIj3eX"
+    },
+    "the-1975_a-brief-inquiry-into-online-relationships": {
+        "playlist_id": "OLAK5uy_kA8HMkORsvFG7dXjJ6wyP9QGixkjE1kZA"
+    },
+    "the-avalanches_since-i-left-you-original": {
+        "playlist_id": "https://www42.zippyshare.com/v/2pMhiSqM/file.html"
+    },
+    "the-avalanches_wildflower": {
+        "playlist_id": "PLcL7r_V9R9S7BmE5bjbjpok9ahApgs0eh"
+    },
+    "the-beatles_sgt-pepper-s-lonely-hearts-club-band": {
+        "fixed_tracks": [
+            "29 The Beatles - Strawberry Fields Forever (Stereo Mix 2015).webm"
+        ],
+        "playlist_id": "PLkB68gEAgGtg1Wl7dL06mG0v8jEgc01BX"
+    },
+    "the-beths_future-me-hates-me": {
+        "playlist_id": "PLlzMOwPS8UtarSlDVdH-5Vj2YVoOz0mku"
+    },
+    "the-carters_everything-is-love": {
+        "playlist_id": "OLAK5uy_kAtVOORRHrvDEoqgySPEYbGCRJId85Qo4"
+    },
+    "the-hold-steady_boys-and-girls-in-america": {
+        "playlist_id": "OLAK5uy_k3qK2OYpwrh8c7CzmW8MWcKmZo6XXyfQA"
+    },
+    "the-mountain-goats_goths": {
+        "playlist_id": "PLu3luErhmiVW3tMKKcrPEZcfC6Vo1qoh9"
+    },
+    "the-national_sleep-well-beast": {
+        "playlist_id": [
+            "http://lagrimapsicodelica4.blogspot.com/2018/02/the-national.html",
+            "https://www84.zippyshare.com/v/twV4LjmP/file.html"
+        ]
+    },
+    "the-rolling-stones_exile-on-main-street-2010": {
+        "playlist_id": "OLAK5uy_mlSgwMnHtgteaiw5pjyjZFc6T2Y8BX7bw"
+    },
+    "the-rolling-stones_sticky-fingers": {
+        "playlist_id": "PL-mHRU6sejkIQ_9ctHcE1oy6LoVNzr2dy"
+    },
+    "the-velvet-underground_the-velvet-underground-and-nico": {
+        "playlist_id": "OLAK5uy_nW5yIMIRqVODLnwmonzbBv9UAS8bpSljs"
+    },
+    "the-voidz_virtue": {
+        "playlist_id": "PLt1w7xfPhaPW6mDO629nxbPDpLCTQ4mr8"
+    },
+    "the-war-on-drugs_a-deeper-understanding": {
+        "playlist_id": "PLbcerJq8u6IeW1YvvWK8SFYUdiYgSqW2q"
+    },
+    "the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die_harmlessness": {
+        "playlist_id": "OLAK5uy_kuryqfk0STghKhaPGn3zKQ4238K790gC4"
+    },
+    "the-xx_i-see-you": {
+        "playlist_id": "PLdimDtDCpVy-YnQsVO1FwTOXnKc3YHWPO"
+    },
+    "thee-oh-sees_orc": {
+        "playlist_id": "OLAK5uy_mxQuP1Esk-8Vbhi9QJ5TaQ5fM6w6FT_r0"
+    },
+    "thom-yorke_suspiria-music-for-the-luca-guadagnino-film": {
+        "playlist_id": "https://nocnahudba14.blogspot.com/2018/10/thom-yorke-suspiria-music-for-luca.html"
+    },
+    "tierra-whack_whack-world": {
+        "playlist_id": "PLACWcnK5xGjDa_YCVM7hIq9IwByxZLYaV"
+    },
+    "tim-hecker_virgins": {
+        "playlist_id": "PLBrkL3AHW9TnypoQlyJE4yU2F2Yn4aIFx"
+    },
+    "tirzah_devotion": {
+        "playlist_id": "OLAK5uy_lT27tBiVoMI2xmx7a2Mq7AhAvsl-sNYto"
+    },
+    "tomberlin_at-weddings": {
+        "playlist_id": "PLb94Zw9KCu-d5Ky2zvMReW5aXiHKB20vQ"
+    },
+    "tony-molina_kill-the-lights": {
+        "playlist_id": "OLAK5uy_lSGwGmNNamy_zFPXkEMopnMh9rFJkmAp8"
+    },
+    "tracyanne-danny_tracyanne-danny": {
+        "playlist_id": "OLAK5uy_k97ngnzT3XhNoptDrahW9SWZ-C67aoFyU"
+    },
+    "travis-scott_astroworld": {
+        "playlist_id": "PL9tY0BWXOZFvdeHbEJr7Wiztcue35IStT"
+    },
+    "tropical-fuck-storm_a-laughing-death-in-meatspace": {
+        "playlist_id": "OLAK5uy_kunoKqDVRMG5ALnSsXmd-H_Tntae5oOzg"
+    },
+    "troye-sivan_bloom": {
+        "playlist_id": "PL-pui3inIdui_E0As9VWVtn5KMXo3JvTg"
+    },
+    "tunng_songs-you-make-at-night": {
+        "playlist_id": "OLAK5uy_nmIWraIA5kt5tlKKh_gNt1e-srk8KxNSs"
+    },
+    "twenty-one-pilots_trench": {
+        "playlist_id": "PLsvpnLmgMjp_ibZan9OCtOA6qanF5PeoN"
+    },
+    "ty-segall_freedom-s-goblin": {
+        "playlist_id": [
+            "http://january2018music.blogspot.com/2018/03/ty-segall-freedoms-goblin-itunes-plus.html",
+            "https://drive.google.com/file/d/14wjWErXtZp-PunuymtaQQFf9kJWAJQAt/view"
+        ]
+    },
+    "tyler-the-creator_flower-boy": {
+        "playlist_id": "PLcSxundcwECqb7nA_6wTUwUGHhkFb7XRs"
+    },
+    "u-s-girls_in-a-poem-unlimited": {
+        "playlist_id": "https://music314.com/3496/u-s-girls-in-a-poem-unlimited-2018-mp3"
+    },
+    "vagabon_infinite-worlds": {
+        "playlist_id": "PL3aPWjxREaXMcL5zQ4b7Gg0G5NF6cV9cR"
+    },
+    "vampire-weekend_modern-vampires-of-the-city": {
+        "playlist_id": "PLpSMVsIRq-N9T7IXvGJYZc93CUYE31VtQ"
+    },
+    "vessel_queen-of-golden-dogs": {
+        "playlist_id": "OLAK5uy_mtoeF0pjLIdDhJkoAGrqpFfoScJvIi_oI"
+    },
+    "vince-staples_big-fish-theory": {
+        "playlist_id": "PL_tHM44RJwFw6uygg1JTnaadgS2RiZT-V"
+    },
+    "vince-staples_fm": {
+        "playlist_id": "PL_CP5ywiVCT4sFAPRucOdAuJiT0vvbxWq"
+    },
+    "white-denim_performance": {
+        "playlist_id": "OLAK5uy_l5fatkwESaVgLqvKCqFPY9fW0RPuiV_XY"
+    },
+    "whitney_light-upon-the-lake": {
+        "playlist_id": "PLZqsyBiYZFQ0ZQwZymve4bwOlYfL1h-h_"
+    },
+    "wye-oak_the-louder-i-call-the-faster-it-runs": {
+        "playlist_id": "OLAK5uy_k-ZOln1Y_EK0_7atx2liefAikGl-gXhks"
+    },
+    "yob_our-raw-heart": {
+        "playlist_id": "OLAK5uy_l4W3g6kiBOp-qDwCkEbN4Btgv0-5qEZfA"
+    },
+    "zeal-ardor_stranger-fruit": {
+        "playlist_id": "OLAK5uy_nJUWkQiouLOELvg5XkL4p3FO3uFhfscFY"
+    },
+    "zola-jesus_okovi": {
+        "playlist_id": "PLzOJLg8rmLeBmsnLu0q50uN_ItQwM8zgG"
     }
 }

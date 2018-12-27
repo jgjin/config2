@@ -21,8 +21,10 @@ beach-house_teen-dream
 belle-sebastian_the-boy-with-the-arab-strap
 big-k-r-i-t_4eva-is-a-mighty-long-time
 big-thief_capacity
+big-ups_two-parts-together
 björk_homogenic
 björk_vespertine
+black-lips_arabia-mountain
 black-thought_streams-of-thought-vol-1
 black-thought_streams-of-thought-vol-2
 blake-mills_look
@@ -31,6 +33,7 @@ blood-orange_negro-swan
 bon-iver_22-a-million
 bon-iver_bon-iver
 brand-new_science-fiction
+brockhampton-saturation
 brockhampton_saturation-ii
 brockhampton_saturation-iii
 broken-social-scene_hug-of-thunder
@@ -80,6 +83,7 @@ gaika_basic-volume
 ghost_prequelle
 girlpool_powerplant
 glass-animals_how-to-be-a-human-being
+godspeed-you-black-emperor_lift-your-skinny-fists-like-antennas-to-heaven
 grimes_art-angels
 gruff-rhys_babelsberg
 guerilla-toss_gt-ultra
@@ -126,6 +130,7 @@ kendrick-lamar_good-kid-m-a-a-d-city
 kendrick-lamar_to-pimp-a-butterfly
 kero-kero-bonito_time-n-place
 kids-see-ghosts_kids-see-ghosts
+king-gizzard-the-lizard-wizard_nonagon-infinity
 laura-marling_once-i-was-an-eagle
 laura-marling_semper-femina
 laurel-halo_raw-silk-uncut-wood
@@ -141,6 +146,7 @@ louis-cole_time
 low_double-negative
 lucy-dacus_historian
 lump_lump
+mac-demarco_salad-days
 mac-miller_swimming
 madeon_adventure
 madvillain_madvillainy
@@ -164,6 +170,7 @@ mount-eerie_a-crow-looked-at-me
 mount-eerie_now-only
 natalia-lafourcade_musas-vol-2
 natalie-prass_the-future-and-the-past
+neil-cicierega_mouth-moods
 neko-case_hell-on
 neneh-cherry_broken-politics
 neon-indian_vega-intl-night-school
@@ -183,6 +190,7 @@ poppy_am-i-a-girl
 protomartyr_relatives-in-descent
 punch-brothers_all-ashore
 pusha-t_daytona
+queens-of-the-stone-age_-like-clockwork
 radiohead_a-moon-shaped-pool
 radiohead_ok-computer
 rapsody_laila-s-wisdom
@@ -208,6 +216,7 @@ sleep_the-sciences
 slowdive_slowdive
 snail-mail_lush
 soccer-mommy_clean
+sons-of-kemet_your-queen-is-a-reptile
 sophie_oil-of-every-pearl-s-un-insides
 sorority-noise_you-re-not-as-_____-as-you-think
 sped-up
@@ -229,11 +238,13 @@ the-carters_everything-is-love
 thee-oh-sees_orc
 the-hold-steady_boys-and-girls-in-america
 the-mountain-goats_goths
+the-national_sleep-well-beast
 the-rolling-stones_exile-on-main-street-2010
 the-rolling-stones_sticky-fingers
 the-velvet-underground_the-velvet-underground-and-nico
 the-voidz_virtue
 the-war-on-drugs_a-deeper-understanding
+the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die_harmlessness
 the-xx_i-see-you
 thom-yorke_suspiria-music-for-the-luca-guadagnino-film
 tierra-whack_whack-world
@@ -249,6 +260,7 @@ troye-sivan_bloom
 tunng_songs-you-make-at-night
 twenty-one-pilots_trench
 tyler-the-creator_flower-boy
+ty-segall_freedom-s-goblin
 u-s-girls_in-a-poem-unlimited
 vagabon_infinite-worlds
 vampire-weekend_modern-vampires-of-the-city
