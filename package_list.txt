@@ -28,7 +28,6 @@ file
 filesystem
 findutils
 firefox
-flashplugin
 flex
 gawk
 gcc

@@ -359,8 +359,8 @@ update_config() {
 # Update music in Raspberry Pi
 update_music() {
     if [[ "$#" -eq 0 ]]; then
-	# sudo rsync -rltuvP --delete ~/music/sped-up /mnt/sdcard/dyn/data/INTERNAL
-	rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@192.168.1.146:/mnt/INTERNAL
+	sudo rsync -rltuvP --delete ~/music/sped-up /mnt/sdcard/dyn/data/INTERNAL
+	# rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@192.168.1.146:/mnt/INTERNAL
     else
 	# sudo rsync -rltuvP --delete ~/music/sped-up $@
 	rsync -avhru --delete --info=progress2 $HOME/music/sped-up volumio@$1:/mnt/INTERNAL
