@@ -1,0 +1,274 @@
+---
+title: "Group Project: CitiBike"
+author: "Vinayak (\"Vinny Boi\") Ganesh and Jason Jin"
+output: html_document
+---
+
+## Load the data
+
+```{r, cache=TRUE}
+citi <- read.csv("combined.csv")
+weather <- read.csv("weather_data.csv")
+```
+
+## Clean the Citibike and weather date data
+
+```{r, cache=TRUE}
+library(dplyr)
+
+weather <- mutate(weather, date_clean = as.Date(as.character(DATE), "%Y%m%d"))
+citi <- mutate(citi, date_clean = as.Date(starttime, "%m/%d/%Y"))
+citi <- mutate(citi, date_time = as.POSIXct(strptime(starttime, "%m/%d/%Y %H:%M:%S")))
+```
+
+## 3: Assymetric Traffic
+Stations running out of bikes because of assymetric traffic (arrivals and departures are not equal, either arrival >> departure or departure >> arrival) is a big problem. Client would want to know which stations are candidates for increasing bike storage capacity. Client would like to see these stations on a map based visualization.
+
+### Create bike inflow and outflow data
+
+```{r, cache=TRUE}
+library(plyr)
+
+in_flow <- ddply(citi, c("end.station.id", "date_clean"), function(df) {
+    nrow(df)
+})
+head(in_flow[in_flow$end.station.id == 72, ])
+
+out_flow <- ddply(citi, c("start.station.id", "date_clean"), function(df) {
+    nrow(df)
+})
+head(out_flow[out_flow$start.station.id == 72, ])
+
+in_and_out_flow <- merge(in_flow, out_flow, by.x=c("end.station.id", "date_clean"), by.y=c("start.station.id", "date_clean"))
+colnames(in_and_out_flow)[colnames(in_and_out_flow) == "end.station.id"] <- "station.id"
+head(in_and_out_flow[in_and_out_flow$station.id == 72, ])
+```
+
+### Create average net flow data
+
+```{r, cache=TRUE}
+net_flow <- mutate(in_and_out_flow, net_flow = V1.x - V1.y)
+
+head(net_flow[net_flow$station.id == 72, ])
+
+net_flow_overall <- ddply(net_flow, c("station.id"), function(df) {
+    mean(df$net_flow, na.rm = TRUE)
+})
+head(net_flow_overall)
+```
+
+### Merge average net flow with latitude/longitude data
+```{r, cache=TRUE}
+citi$start.station.latitude <- as.numeric(as.character(citi$start.station.latitude))
+citi$start.station.longitude <- as.numeric(as.character(citi$start.station.longitude))
+lat_long <- ddply(citi, c("start.station.id"), function(df) {
+    c(df$start.station.latitude[1], df$start.station.longitude[1])
+})
+head(lat_long)
+
+net_flow_overall_with_lat_long <- merge(net_flow_overall, lat_long, by.x=c("station.id"), by.y=c("start.station.id"))
+colnames(net_flow_overall_with_lat_long) <- c("station_id", "avg_net_flow", "lat", "long")
+net_flow_overall_with_lat_long$lat <- as.numeric(as.character(net_flow_overall_with_lat_long$lat))
+net_flow_overall_with_lat_long$long <- as.numeric(as.character(net_flow_overall_with_lat_long$long))
+head(net_flow_overall_with_lat_long)
+```
+
+### Get instances of negative and positive net flow separately
+
+```{r, cache=TRUE}
+neg_net_flow <- net_flow_overall_with_lat_long[net_flow_overall_with_lat_long$avg_net_flow < 0, ]
+neg_net_flow <- mutate(neg_net_flow, magnitude = -1 * avg_net_flow)
+neg_net_flow$lat <- as.numeric(as.character(neg_net_flow$lat))
+neg_net_flow$long <- as.numeric(as.character(neg_net_flow$long))
+head(neg_net_flow)
+
+pos_net_flow <- net_flow_overall_with_lat_long[net_flow_overall_with_lat_long$avg_net_flow > 0, ]
+pos_net_flow$lat <- as.numeric(as.character(pos_net_flow$lat))
+pos_net_flow$long <- as.numeric(as.character(pos_net_flow$long))
+head(pos_net_flow)
+```
+
+### Get latitude/longitude bounds
+```{r, cache=TRUE}
+lat <- c(min(neg_net_flow$lat[neg_net_flow$lat > 30]) - 0.01, max(neg_net_flow$lat[neg_net_flow$lat < 50]) + 0.01)
+long <- c(min(neg_net_flow$long[neg_net_flow$long > -80]) -0.01, max(neg_net_flow$long[neg_net_flow$long < -60]) + 0.01)
+
+lat
+long
+```
+
+### Get map of NYC
+```{r}
+library(ggmap)
+
+ggmap::register_google(key = "AIzaSyAIUHdzZd7CwFzO7WhtvUYi4l4ese9E4Lk")
+ggmap::has_google_key()
+nyc_base <- ggmap::get_map(location = c(mean(long), mean(lat)), zoom = 11)
+```
+
+### Plot negative net flow instances
+
+```{r, cache=TRUE}
+ggmap(nyc_base) +
+    scale_x_continuous(limits = long, expand = c(0, 0)) +
+    scale_y_continuous(limits = lat, expand = c(0, 0)) +
+    geom_point(
+        data = neg_net_flow,
+        aes(x=long, y=lat, size=magnitude),
+        color="red",
+        alpha=0.5
+    )
+```
+
+### Plot positive net flow instances
+
+```{r, cache=TRUE}
+ggmap(nyc_base) +
+    scale_x_continuous(limits = long, expand = c(0, 0)) +
+    scale_y_continuous(limits = lat, expand = c(0, 0)) +
+    geom_point(
+        data = pos_net_flow,
+        aes(x=long, y=lat, size=avg_net_flow),
+        color="darkgreen",
+        alpha=0.5
+    )
+```
+
+### Plot negative and positive net flow instances
+```{r, cache=TRUE}
+ggmap(nyc_base) +
+    scale_x_continuous(limits = long, expand = c(0, 0)) +
+    scale_y_continuous(limits = lat, expand = c(0, 0)) +
+    geom_point(
+        data = neg_net_flow,
+        aes(x=long, y=lat, size=magnitude),
+        color="red",
+        alpha=0.5
+    ) +
+    geom_point(
+        data = pos_net_flow,
+        aes(x=long, y=lat, size=avg_net_flow),
+        color="darkgreen",
+        alpha=0.5
+    )
+```
+
+## 4: Impact of Weather
+The client wants to know the impact of weather (temperature, rain, snow, wind) on the CitiBike system.
+
+### Merge Citibike and weather data
+
+```{r, cache=TRUE}
+merged <- merge(citi, weather, "date_clean")
+```
+
+### Impact of temperature, rain, snow, and wind on trip duration
+```{r, cache=TRUE}
+library(lmtest)
+
+merged$tripduration <- as.integer(merged$tripduration)
+tripduration_model <- lm(tripduration ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND, merged)
+summary(tripduration_model)
+
+library(ggplot2)
+
+ggplot(merged, aes(x = TMAX, y = tripduration)) + geom_hist()
+```
+
+### Count number of trips per date by overall, user type, and gender
+```{r}
+library(plyr)
+
+overall_counts <- ddply(merged, c("date_clean"), function(df) {
+    nrow(df)
+})
+overall_counts <- merge(overall_counts, weather, "date_clean")
+
+user_counts <- ddply(merged, c("date_clean", "usertype"), function(df) {
+    nrow(df)
+})
+user_counts <- merge(user_counts, weather, "date_clean")
+
+gender_counts <- ddply(merged, c("date_clean", "gender"), function(df) {
+    nrow(df)
+})
+gender_counts <- merge(gender_counts, weather, "date_clean")
+```
+
+### Create generation column
+```{r}
+breaks <- c(0, 1964, 1979, 2000)
+labels <- c("boomer", "gen_x", "millenials")
+
+merged$birth.year <- as.numeric(merged$birth.year)
+merged$gen <- cut(merged$birth.year, breaks, labels)
+```
+
+### Count number of trips per date by generation
+```{r}
+gen_counts <- ddply(merged[!is.na(merged$birth.year), ], c("date_clean", "gen"), function(df) {
+    nrow(df)
+})
+gen_counts <- merge(gen_counts, weather, "date_clean")
+```
+
+### Impact of temperature, rain, snow, and wind on number of trips overall and number of trips by user type, gender, and generation
+
+```{r}
+overall_counts_model <- lm(V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND, overall_counts)
+summary(overall_counts_model)
+```
+
+```{r}
+cust_counts_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    user_counts[user_counts$usertype == "Customer", ]
+)
+summary(cust_counts_model)
+
+sub_counts_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    user_counts[user_counts$usertype == "Subscriber", ]
+)
+summary(sub_counts_model)
+```
+
+```{r}
+gender_0_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    gender_counts[gender_counts$gender == 0, ]
+)
+summary(gender_0_model)
+
+gender_1_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    gender_counts[gender_counts$gender == 1, ]
+)
+summary(gender_1_model)
+
+gender_2_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    gender_counts[gender_counts$gender == 2, ]
+)
+summary(gender_2_model)
+```
+
+```{r}
+boomer_counts_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    gen_counts[gen_counts$gen == "boomer", ]
+)
+summary(boomer_counts_model)
+
+gen_x_counts_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    gen_counts[gen_counts$gen == "gen_x", ]
+)
+summary(gen_x_counts_model)
+
+millenials_counts_model <- lm(
+    V1 ~ PRCP + SNWD + SNOW + TMAX + TMIN + AWND,
+    gen_counts[gen_counts$gen == "millenials", ]
+)
+summary(millenials_counts_model)
+```
