@@ -1,6 +1,11 @@
 chromium-widevine
+google-chrome
 lemonbar-xft-git
+libldac
 ntpdate
+pandoc-bin
+pulseaudio-modules-bt-git
 redshift-minimal
 tzupdate
+xmacro
 z-dir-jump-git

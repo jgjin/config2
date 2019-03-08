@@ -60,13 +60,36 @@ export _Z_DATA="$HOME/.dir_history"
 # Support history-based cd
 . /usr/share/z/z.sh
 
+# avahi-resolve common names
+a_resolve() {
+    if [[ "$1" = 'a' ]]; then
+	avahi-resolve-host-name avocado.local
+    else
+	if [[ "$1" = 'b' ]]; then
+	    avahi-resolve-host-name banana.local
+	else
+	    avahi-resolve-host-name $1.local
+	fi
+    fi
+}
+
+# bspc query hidden in desktop $1
+bspc_hidden() {
+    bspc query -N -n .hidden -d $1
+}
+
+# toggle hidden flag on node $1
+bspc_toggle() {
+    bspc node $1 --flag hidden
+}
+
 # cd then ls to directory
 cd_ls() {
     chdir $@
     custom_ls
 }
 
-# Custom functions
+# connect to wifi with report
 connect() {
     sudo netctl stop-all
     echo "Starting profile $1"
@@ -85,6 +108,7 @@ connect() {
     return 1
 }
 
+# count files and directories in current directory
 count() {
     NUM_FILES=`find $PWD -maxdepth 1 -type f | wc -l`
     NUM_DIRECTORIES=`find $PWD -maxdepth 1 -type d | wc -l`
@@ -224,6 +248,14 @@ find_img_set() {
 find_view_sort() {
     find_img $@
     view -f /tmp/img.txt --sort filename &
+}
+
+# Firefox for every line of file $1
+firefox_tabs() {
+    while IFS= read -r var
+    do
+	firefox "${@:2}" "$var"
+    done < "$1"
 }
 
 # Git commit files with changes

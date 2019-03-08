@@ -5,8 +5,11 @@
 # alias q
 # alias t
 # alias x
+alias aresolve="a_resolve"
 alias audioinfo="mediainfo"
 alias brightness="sudo tee /sys/class/backlight/intel_backlight/brightness <<<"
+alias bspchidden="bspc_hidden"
+alias bspctoggle="bspc_toggle"
 alias cd="custom_cd"
 alias cdls="cd_ls"
 alias clear="/usr/bin/clear; echo Please use C-l"
@@ -20,6 +23,7 @@ alias findimg="find_img"
 alias findimgset="find_img_set"
 alias findviewsort="find_view_sort"
 alias firefoxprivate="$HOME/bin/firefox-private.sh"
+alias firefoxtabs="firefox_tabs"
 alias fm="pcmanfm"
 alias gitamend="git commit --amend"
 alias gitcommitdiff="git_commit_diff"
