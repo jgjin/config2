@@ -41,7 +41,7 @@ cpu() {
 
 # Print network connection state
 network() {
-    ping -c 1 8.8.8.8 >/dev/null 2>&1 && echo "C" || echo "D"
+    ping -w 1 -W 3 8.8.8.8 >/dev/null 2>&1 && echo "C" || echo "D"
 }
 
 # Print desktops
