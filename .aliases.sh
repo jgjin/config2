@@ -78,5 +78,6 @@ alias vpnactivate="sudo echo &> /dev/null; gpg --decrypt $HOME/.config/vpn/crede
 alias vpncheck="ip tuntap list"
 alias wallpaper="setwallpaper $HOME/pics/wallpaper-day.jpg"
 alias whoops="bspc node $(bspc query -N -n .hidden | head -n1) --flag hidden"
+alias xmacrorec="xmacrorec2 > /tmp/xmacro"
 alias ydl="youtube-dl --format bestaudio --output \"$HOME/music/%(playlist)s/%(autonumber)s %(title)s.%(ext)s\""
 alias zd="z -r"

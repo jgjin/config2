@@ -82,6 +82,14 @@ super + ctrl + alt + e
 super + ctrl + alt + g
       gimp
 
+# xmacro replay
+super + F4
+      sleep 0.5; xmacroplay --speed 2.0 "$DISPLAY" < /tmp/xmacro
+
+# xmacro replay n times
+super + ctrl + shift + {0-9}
+      sleep 0.5; for n in \{1..{0-9}\}; do xmacroplay --speed 2.0 "$DISPLAY" < /tmp/xmacro; done
+
 #
 # bspwm key bindings
 #
